@@ -1,0 +1,1765 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -158114181,
+        "longitudeE7" : -477889529,
+        "placeId" : "ChIJRVE7zcMiWpMR1JcLl6FeIKo",
+        "address" : "Altiplano Leste - Paranoá\nBrasília - DF\n70297-400\nBrasil",
+        "name" : "Minichácaras South Lake,",
+        "sourceInfo" : {
+          "deviceTag" : 2106489802
+        },
+        "locationConfidence" : 99.54788
+      },
+      "duration" : {
+        "startTimestampMs" : "1515508541000",
+        "endTimestampMs" : "1515509721278"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : -157907879,
+      "centerLngE7" : -479371249,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -157809816,
+        "longitudeE7" : -477489621,
+        "placeId" : "ChIJ93ygLx0YWpMRcHiv2MDxZ1c",
+        "locationConfidence" : 0.23951368
+      }, {
+        "latitudeE7" : -158122792,
+        "longitudeE7" : -477855093,
+        "placeId" : "ChIJ6e4hMcAiWpMRrc5c5GQyu5c",
+        "locationConfidence" : 0.17185295
+      }, {
+        "latitudeE7" : -158119180,
+        "longitudeE7" : -477896240,
+        "placeId" : "ChIJr0iONcIiWpMRj64NpHZqYtc",
+        "locationConfidence" : 0.040750265
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : -157818567,
+          "lngE7" : -480010317,
+          "timestampMs" : "1515508541000",
+          "accuracyMeters" : 96
+        }, {
+          "latE7" : -157813967,
+          "lngE7" : -480013867,
+          "timestampMs" : "1515508604000",
+          "accuracyMeters" : 3
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -158114181,
+        "longitudeE7" : -477889529
+      },
+      "endLocation" : {
+        "latitudeE7" : -157829077,
+        "longitudeE7" : -479952312
+      },
+      "duration" : {
+        "startTimestampMs" : "1515509721278",
+        "endTimestampMs" : "1515511865293"
+      },
+      "distance" : 6666,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 64.95682353352612
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 17.837538664498442
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 8.013453800236334
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -158113565,
+          "lngE7" : -477889213
+        }, {
+          "latE7" : -157829179,
+          "lngE7" : -479951515
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "parkingEvent" : {
+        "timestampMs" : "1515511865293",
+        "location" : {
+          "latitudeE7" : -157829077,
+          "longitudeE7" : -479952312
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -157829077,
+        "longitudeE7" : -479952312,
+        "placeId" : "ChIJozP3q0UxWpMRFxO6Kn4kAfU",
+        "address" : "Qd 01 CONJ 4 LOJA 3\nSt. Leste - Guará\nBrasília - DF\n71261-030\nBrasil",
+        "name" : "La Pizza",
+        "sourceInfo" : {
+          "deviceTag" : 2106489802
+        },
+        "locationConfidence" : 51.03639
+      },
+      "duration" : {
+        "startTimestampMs" : "1515511865293",
+        "endTimestampMs" : "1515512252421"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : -157826733,
+      "centerLngE7" : -479951767,
+      "visitConfidence" : 88,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -157815289,
+        "longitudeE7" : -479946689,
+        "placeId" : "ChIJAzDjvlsxWpMRaDbxLJtbSH4",
+        "name" : "Loterias Estrutural - Setor Leste, Brasília - DF",
+        "locationConfidence" : 3.4189758
+      }, {
+        "latitudeE7" : -157831464,
+        "longitudeE7" : -479944737,
+        "placeId" : "ChIJ7_zRd1wxWpMRlBCn0RMBYHc",
+        "name" : "Point Do Açaí",
+        "locationConfidence" : 3.2742136
+      }, {
+        "latitudeE7" : -157837898,
+        "longitudeE7" : -479963439,
+        "placeId" : "ChIJcTLGVFkxWpMRwHLbInBBAAw",
+        "name" : "Criative Odontologia",
+        "locationConfidence" : 3.2643087
+      }, {
+        "latitudeE7" : -157832448,
+        "longitudeE7" : -479940812,
+        "placeId" : "ChIJAWCH9vbLW5MRQWCgh5TmZxE",
+        "name" : "Metalúrgica Aragão Ltda.",
+        "locationConfidence" : 1.7936288
+      }, {
+        "latitudeE7" : -157845800,
+        "longitudeE7" : -479945230,
+        "placeId" : "ChIJiUX9RVwxWpMRmnAboMma6bE",
+        "name" : "Thiagos Carnes",
+        "locationConfidence" : 1.6252146
+      }, {
+        "latitudeE7" : -157845831,
+        "longitudeE7" : -479957207,
+        "placeId" : "ChIJTcjwI1wxWpMREoJZWQTtXYM",
+        "name" : "Atacadão das Utilidades",
+        "locationConfidence" : 1.402551
+      }, {
+        "latitudeE7" : -157821260,
+        "longitudeE7" : -479969330,
+        "placeId" : "ChIJgeWYaVkxWpMRN9s6gZPbB2k",
+        "name" : "Worker Agency Estrutural",
+        "locationConfidence" : 1.2774763
+      }, {
+        "latitudeE7" : -157847636,
+        "longitudeE7" : -479957876,
+        "placeId" : "ChIJdbtbJFwxWpMRsnmDjNrbKP4",
+        "name" : "Doceria Moranguinho",
+        "locationConfidence" : 1.2020566
+      }, {
+        "latitudeE7" : -157822100,
+        "longitudeE7" : -479959200,
+        "placeId" : "ChIJ01Wn4VsxWpMR5mwKu6ubXnE",
+        "name" : "Central Plásticos e Embalagens",
+        "locationConfidence" : 1.1312644
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -157956764,
+        "longitudeE7" : -481248958
+      },
+      "endLocation" : {
+        "latitudeE7" : -157920739,
+        "longitudeE7" : -481237508
+      },
+      "duration" : {
+        "startTimestampMs" : "1515879049613",
+        "endTimestampMs" : "1515879361511"
+      },
+      "distance" : 418,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 92.8446646657592
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 5.9134721951539575
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.3310260027961196
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -157956190,
+          "lngE7" : -481247329
+        }, {
+          "latE7" : -157920207,
+          "lngE7" : -481237754
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -157918624,
+        "longitudeE7" : -481244985,
+        "placeId" : "ChIJV0M4HpswWpMRaiPccWLIj-g",
+        "address" : "Eqno 03/05\nSt. O EQNO 3/5 - Ceilândia\nBrasília - DF\n72250-510\nBrasil",
+        "name" : "CEM 09 de Ceilândia",
+        "sourceInfo" : {
+          "deviceTag" : 2106489802
+        },
+        "locationConfidence" : 87.848434
+      },
+      "duration" : {
+        "startTimestampMs" : "1515879361511",
+        "endTimestampMs" : "1515882049186"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : -157919112,
+      "centerLngE7" : -481235476,
+      "visitConfidence" : 95,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -157911579,
+        "longitudeE7" : -481232581,
+        "placeId" : "ChIJ-3vGEIPLW5MRJHKo_A-iTII",
+        "name" : "Cervejaria Point",
+        "locationConfidence" : 1.2513269
+      }, {
+        "latitudeE7" : -157914157,
+        "longitudeE7" : -481229124,
+        "placeId" : "ChIJOQWUBIPLW5MRKzE8k9FtAgk",
+        "name" : "Quiosque Agua Na Boca",
+        "locationConfidence" : 0.7578568
+      }, {
+        "latitudeE7" : -157917321,
+        "longitudeE7" : -481233328,
+        "placeId" : "ChIJ3ZQrCYPLW5MRfl2TY95UrO4",
+        "name" : "Restaurante Panela Barro",
+        "locationConfidence" : 0.68163353
+      }, {
+        "latitudeE7" : -157913018,
+        "longitudeE7" : -481229744,
+        "placeId" : "ChIJDWYlG4PLW5MRgK4p1ZnKje0",
+        "name" : "Burguer's Mania",
+        "locationConfidence" : 0.6580304
+      }, {
+        "latitudeE7" : -157911769,
+        "longitudeE7" : -481230677,
+        "placeId" : "ChIJO1BDGoPLW5MR907nlMcbsYs",
+        "name" : "Point do Pastel",
+        "locationConfidence" : 0.4904597
+      }, {
+        "latitudeE7" : -157911157,
+        "longitudeE7" : -481230455,
+        "placeId" : "ChIJracwGoPLW5MRQ-PTFyGvkuM",
+        "name" : "Point Do Espetinho",
+        "locationConfidence" : 0.42747086
+      }, {
+        "latitudeE7" : -157906352,
+        "longitudeE7" : -481224305,
+        "placeId" : "ChIJx1Bm4ILLW5MRIFgodFl73cI",
+        "name" : "Açaí Brasil",
+        "locationConfidence" : 0.40333363
+      }, {
+        "latitudeE7" : -157910005,
+        "longitudeE7" : -481244918,
+        "placeId" : "ChIJ6UZeUYPLW5MRlohfg_N2_vM",
+        "name" : "Patrícia Cabelos",
+        "locationConfidence" : 0.37709644
+      }, {
+        "latitudeE7" : -157909550,
+        "longitudeE7" : -481231783,
+        "placeId" : "ChIJhyR_F4PLW5MRl_DvF-o_ouA",
+        "name" : "Pet Shop Fora Da Casinha",
+        "locationConfidence" : 0.37566504
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -157918624,
+        "longitudeE7" : -481244985
+      },
+      "endLocation" : {
+        "latitudeE7" : -157897378,
+        "longitudeE7" : -481275439
+      },
+      "duration" : {
+        "startTimestampMs" : "1515882049186",
+        "endTimestampMs" : "1515882749592"
+      },
+      "distance" : 710,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 86.99783292364215
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 9.103837375921922
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 2.688321442328984
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -157915639,
+          "lngE7" : -481246795
+        }, {
+          "latE7" : -157897310,
+          "lngE7" : -481275253
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "parkingEvent" : {
+        "timestampMs" : "1515882749592",
+        "location" : {
+          "latitudeE7" : -157897378,
+          "longitudeE7" : -481275439
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -157897378,
+        "longitudeE7" : -481275439,
+        "placeId" : "ChIJJyVQ35rLW5MRYDHb4lGmvLo",
+        "address" : "Eqno 5/7 Bl A Lt 1\ns/n LT1 A 5\nCeilândia\nBrasília - DF\n72251-001\nBrasil",
+        "name" : "Commercial Food",
+        "sourceInfo" : {
+          "deviceTag" : 2106489802
+        },
+        "locationConfidence" : 72.13485
+      },
+      "duration" : {
+        "startTimestampMs" : "1515882749592",
+        "endTimestampMs" : "1515883292827"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : -157891440,
+      "centerLngE7" : -481282480,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -157894432,
+        "longitudeE7" : -481281511,
+        "placeId" : "ChIJn9iy60YzWpMRXV2MHyHywic",
+        "name" : "I Love Cake",
+        "locationConfidence" : 11.172864
+      }, {
+        "latitudeE7" : -157887534,
+        "longitudeE7" : -481285008,
+        "placeId" : "ChIJ_TQU9JrLW5MRIqQUir_dUGY",
+        "name" : "SalvaCar - Jorge",
+        "locationConfidence" : 3.2553282
+      }, {
+        "latitudeE7" : -157896419,
+        "longitudeE7" : -481283097,
+        "placeId" : "ChIJce_W6ZrLW5MRFFIOq__s2dI",
+        "name" : "Lindt Chocolat",
+        "locationConfidence" : 1.5725642
+      }, {
+        "latitudeE7" : -157873966,
+        "longitudeE7" : -481283566,
+        "placeId" : "ChIJ08hkKIDLW5MREhYqhyTzL00",
+        "name" : "Supermercados Caique",
+        "locationConfidence" : 1.0545217
+      }, {
+        "latitudeE7" : -157877315,
+        "longitudeE7" : -481281686,
+        "placeId" : "ChIJXWwvOprLW5MRsasgR5XjRTA",
+        "name" : "Open chopp",
+        "locationConfidence" : 0.9438478
+      }, {
+        "latitudeE7" : -157887995,
+        "longitudeE7" : -481277207,
+        "placeId" : "ChIJFdie_JrLW5MR9cFMKC9Hziw",
+        "name" : "ciclista do GaGo",
+        "locationConfidence" : 0.9123548
+      }, {
+        "latitudeE7" : -157883936,
+        "longitudeE7" : -481298583,
+        "placeId" : "ChIJiWZWeJrLW5MRdJR5bDY_ZYs",
+        "name" : "AçaíLândia Melhor Açaí da Ceilândia",
+        "locationConfidence" : 0.8050648
+      }, {
+        "latitudeE7" : -157893730,
+        "longitudeE7" : -481291620,
+        "placeId" : "ChIJITm7kZrLW5MRJW2uAWKXYL0",
+        "name" : "Airbag & Cia",
+        "locationConfidence" : 0.55645794
+      }, {
+        "latitudeE7" : -157917384,
+        "longitudeE7" : -481274509,
+        "placeId" : "ChIJi4bs34TLW5MR0aL960OJwYo",
+        "name" : "Oryanna Cosméticos",
+        "locationConfidence" : 0.42504138
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -157891690,
+        "longitudeE7" : -481282526
+      },
+      "endLocation" : {
+        "latitudeE7" : -156755373,
+        "longitudeE7" : -481920628
+      },
+      "duration" : {
+        "startTimestampMs" : "1515883292827",
+        "endTimestampMs" : "1515886491487"
+      },
+      "distance" : 15758,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 81.80413635053235
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 10.83760477064792
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 3.4237936442250665
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -157891874,
+          "lngE7" : -481283073
+        }, {
+          "latE7" : -156845655,
+          "lngE7" : -481973075
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "parkingEvent" : {
+        "timestampMs" : "1515886732648",
+        "location" : {
+          "latitudeE7" : -156755373,
+          "longitudeE7" : -481920628,
+          "accuracyMetres" : 477
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -156849751,
+        "longitudeE7" : -481986768,
+        "placeId" : "ChIJ58Cem2jLW5MRjPwAtPxl_CQ",
+        "address" : "Df 415 - Km 8,8 Vicinal À Esquerda Rural\nBrazlândia\nBrasília - DF\nBrasil",
+        "name" : "Environmental Protection Area of ​​the River Basin Discovered",
+        "sourceInfo" : {
+          "deviceTag" : 2106489802
+        },
+        "locationConfidence" : 90.70544
+      },
+      "duration" : {
+        "startTimestampMs" : "1515886491487",
+        "endTimestampMs" : "1515936144924"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : -156839070,
+      "centerLngE7" : -481936152,
+      "visitConfidence" : 62,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -156944680,
+        "longitudeE7" : -481931580,
+        "placeId" : "ChIJv_hSFPu2W5MRtr9UgTUcPu0",
+        "name" : "Chácara Raio De Sol",
+        "locationConfidence" : 9.294562
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : -156755373,
+          "lngE7" : -481920628,
+          "timestampMs" : "1515886491487",
+          "accuracyMeters" : 116
+        }, {
+          "latE7" : -156755373,
+          "lngE7" : -481920628,
+          "timestampMs" : "1515886611471",
+          "accuracyMeters" : 296
+        }, {
+          "latE7" : -156755373,
+          "lngE7" : -481920628,
+          "timestampMs" : "1515886732648",
+          "accuracyMeters" : 477
+        }, {
+          "latE7" : -156952343,
+          "lngE7" : -481940371,
+          "timestampMs" : "1515887214231",
+          "accuracyMeters" : 110
+        }, {
+          "latE7" : -156952343,
+          "lngE7" : -481940371,
+          "timestampMs" : "1515887334528",
+          "accuracyMeters" : 290
+        }, {
+          "latE7" : -156944801,
+          "lngE7" : -481907987,
+          "timestampMs" : "1515887412880",
+          "accuracyMeters" : 135
+        }, {
+          "latE7" : -156944801,
+          "lngE7" : -481907987,
+          "timestampMs" : "1515887455443",
+          "accuracyMeters" : 199
+        }, {
+          "latE7" : -156952343,
+          "lngE7" : -481940371,
+          "timestampMs" : "1515887937288",
+          "accuracyMeters" : 104
+        }, {
+          "latE7" : -156952343,
+          "lngE7" : -481940371,
+          "timestampMs" : "1515888178286",
+          "accuracyMeters" : 82
+        }, {
+          "latE7" : -156952343,
+          "lngE7" : -481940371,
+          "timestampMs" : "1515888297906",
+          "accuracyMeters" : 104
+        }, {
+          "latE7" : -156952343,
+          "lngE7" : -481940371,
+          "timestampMs" : "1515888539337",
+          "accuracyMeters" : 82
+        }, {
+          "latE7" : -156835112,
+          "lngE7" : -481953638,
+          "timestampMs" : "1515933869961",
+          "accuracyMeters" : 500
+        }, {
+          "latE7" : -156835112,
+          "lngE7" : -481953638,
+          "timestampMs" : "1515934309390",
+          "accuracyMeters" : 500
+        }, {
+          "latE7" : -156835112,
+          "lngE7" : -481953638,
+          "timestampMs" : "1515934821569",
+          "accuracyMeters" : 500
+        }, {
+          "latE7" : -156835112,
+          "lngE7" : -481953638,
+          "timestampMs" : "1515935093676",
+          "accuracyMeters" : 500
+        }, {
+          "latE7" : -156835112,
+          "lngE7" : -481953638,
+          "timestampMs" : "1515935245705",
+          "accuracyMeters" : 500
+        }, {
+          "latE7" : -156835112,
+          "lngE7" : -481953638,
+          "timestampMs" : "1515935422877",
+          "accuracyMeters" : 500
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -156849751,
+        "longitudeE7" : -481986768
+      },
+      "endLocation" : {
+        "latitudeE7" : -156849751,
+        "longitudeE7" : -481986768
+      },
+      "duration" : {
+        "startTimestampMs" : "1515936144924",
+        "endTimestampMs" : "1515939542771"
+      },
+      "distance" : 5007,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 83.52634805636033
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 11.914367057580062
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 2.045854834342517
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "parkingEvent" : {
+        "timestampMs" : "1515939542771",
+        "location" : {
+          "latitudeE7" : -156849751,
+          "longitudeE7" : -481986768
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -156849751,
+        "longitudeE7" : -481986768,
+        "placeId" : "ChIJ58Cem2jLW5MRjPwAtPxl_CQ",
+        "address" : "Df 415 - Km 8,8 Vicinal À Esquerda Rural\nBrazlândia\nBrasília - DF\nBrasil",
+        "name" : "Environmental Protection Area of ​​the River Basin Discovered",
+        "sourceInfo" : {
+          "deviceTag" : 2106489802
+        },
+        "locationConfidence" : 87.11029
+      },
+      "duration" : {
+        "startTimestampMs" : "1515939542771",
+        "endTimestampMs" : "1515943210062"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : -156931050,
+      "centerLngE7" : -481941170,
+      "visitConfidence" : 71,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -156838533,
+        "longitudeE7" : -481934880,
+        "placeId" : "ChIJEfucX-e2W5MRpWZqbc4ms5I",
+        "name" : "Road of Brazlândia",
+        "locationConfidence" : 4.7062206
+      }, {
+        "latitudeE7" : -156837679,
+        "longitudeE7" : -481946412,
+        "placeId" : "ChIJdfoT3sK2W5MRwSaTH_aZq-M",
+        "name" : "Agency of Brazilandia Worker",
+        "locationConfidence" : 1.0568123
+      }, {
+        "latitudeE7" : -156836235,
+        "longitudeE7" : -481953040,
+        "placeId" : "ChIJM7PGEN62W5MRMkI6g9pUgMY",
+        "name" : "Supercei Supermercados",
+        "locationConfidence" : 1.0429355
+      }, {
+        "latitudeE7" : -156820808,
+        "longitudeE7" : -481931108,
+        "placeId" : "ChIJT9_Cxd22W5MR_Me9Fu6s9J0",
+        "name" : "Archdiocesan Shrine Infant Jesus",
+        "locationConfidence" : 0.5375878
+      }, {
+        "latitudeE7" : -156841780,
+        "longitudeE7" : -481939430,
+        "placeId" : "ChIJQ2n7Wee2W5MRlciSVuI3GxE",
+        "name" : "Capital Lanches",
+        "locationConfidence" : 0.3975015
+      }, {
+        "latitudeE7" : -156823740,
+        "longitudeE7" : -481939866,
+        "placeId" : "ChIJU3w22922W5MRgIfhaZRV3oM",
+        "name" : "Óticas Realezza",
+        "locationConfidence" : 0.26240072
+      }, {
+        "latitudeE7" : -156849678,
+        "longitudeE7" : -481938448,
+        "placeId" : "ChIJj96kR-e2W5MR9yNce1ICk7M",
+        "name" : "Feira Permanente de Braslândia",
+        "locationConfidence" : 0.21826063
+      }, {
+        "latitudeE7" : -156826476,
+        "longitudeE7" : -481939038,
+        "placeId" : "ChIJxTS92t22W5MR5KSfZzG_1lI",
+        "name" : "Barbearia André Rocha",
+        "locationConfidence" : 0.21519648
+      }, {
+        "latitudeE7" : -156820341,
+        "longitudeE7" : -481940694,
+        "placeId" : "ChIJm60i--e2W5MReRxU2xH1FfU",
+        "name" : "Laboratório Sabin de Análise Clínicas",
+        "locationConfidence" : 0.20200902
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -156849751,
+        "longitudeE7" : -481986768
+      },
+      "endLocation" : {
+        "latitudeE7" : -158412353,
+        "longitudeE7" : -480439640
+      },
+      "duration" : {
+        "startTimestampMs" : "1515943210062",
+        "endTimestampMs" : "1515943753085"
+      },
+      "distance" : 9380,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 82.22541310773079
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 8.29102130112876
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 6.893461005540937
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -156845655,
+          "lngE7" : -481973075
+        }, {
+          "latE7" : -158407201,
+          "lngE7" : -480442161
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "parkingEvent" : {
+        "timestampMs" : "1515943753085",
+        "location" : {
+          "latitudeE7" : -158412353,
+          "longitudeE7" : -480439640
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -158412353,
+        "longitudeE7" : -480439640,
+        "placeId" : "ChIJwWC82IsyWpMRITE5cD0xgtA",
+        "address" : "Qs 1, 210 - Lote 40 - Taguatinga\nBrasília - DF\n71950-904\nBrasil",
+        "name" : "Taguatinga Shopping",
+        "sourceInfo" : {
+          "deviceTag" : 2106489802
+        },
+        "locationConfidence" : 98.52056
+      },
+      "duration" : {
+        "startTimestampMs" : "1515943753085",
+        "endTimestampMs" : "1515952794186"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : -156944680,
+          "longitudeE7" : -481931580,
+          "placeId" : "ChIJv_hSFPu2W5MRtr9UgTUcPu0",
+          "address" : "St. Hab. Cascalheira - Brazlândia\nBrasília - DF\nBrasil",
+          "name" : "Chácara Raio de Sol",
+          "sourceInfo" : {
+            "deviceTag" : 2106489802
+          },
+          "locationConfidence" : 84.83887
+        },
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : -158414600,
+      "centerLngE7" : -480440100,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -158428039,
+        "longitudeE7" : -480423995,
+        "placeId" : "ChIJefInIPYyWpMRWrU9KLtqM5o",
+        "name" : "Extra",
+        "locationConfidence" : 0.5161925
+      }, {
+        "latitudeE7" : -158434309,
+        "longitudeE7" : -480440735,
+        "placeId" : "ChIJheTUG4kyWpMRbiRtGm0wKFA",
+        "name" : "Sex Shop 69 Sedução e Prazer",
+        "locationConfidence" : 0.043381482
+      }, {
+        "latitudeE7" : -158436548,
+        "longitudeE7" : -480440987,
+        "placeId" : "ChIJ9WqfHokyWpMRg_7R09oMy5s",
+        "name" : "Edifício Pátio Capital",
+        "locationConfidence" : 0.03462808
+      }, {
+        "latitudeE7" : -158433022,
+        "longitudeE7" : -480443253,
+        "placeId" : "ChIJ0YXyF4kyWpMRM8jholYEmsM",
+        "name" : "Açai Do Primo",
+        "locationConfidence" : 0.034200385
+      }, {
+        "latitudeE7" : -158440515,
+        "longitudeE7" : -480418537,
+        "placeId" : "ChIJM7otfYgyWpMRCxeZBuWw6W4",
+        "name" : "Leroy Merlin Taguatinga",
+        "locationConfidence" : 0.029637001
+      }, {
+        "latitudeE7" : -158438480,
+        "longitudeE7" : -480441517,
+        "placeId" : "ChIJXwdm54gyWpMRPJZmBrvwvSs",
+        "name" : "Patio Capital Health",
+        "locationConfidence" : 0.027036007
+      }, {
+        "latitudeE7" : -158414716,
+        "longitudeE7" : -480440387,
+        "placeId" : "ChIJ7apk34syWpMRs31uOoDjVJo",
+        "locationConfidence" : 0.024097802
+      }, {
+        "latitudeE7" : -158414553,
+        "longitudeE7" : -480440216,
+        "placeId" : "ChIJnQWHaIkyWpMRgKqGhU0qkOs",
+        "locationConfidence" : 0.02360902
+      }, {
+        "latitudeE7" : -158406160,
+        "longitudeE7" : -480448540,
+        "placeId" : "ChIJ74rh7IsyWpMRR1NaQBJc2Lk",
+        "name" : "Connect Towers",
+        "locationConfidence" : 0.022643609
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -158414600,
+        "longitudeE7" : -480440100
+      },
+      "endLocation" : {
+        "latitudeE7" : -274309707,
+        "longitudeE7" : -484500100
+      },
+      "duration" : {
+        "startTimestampMs" : "1515952794186",
+        "endTimestampMs" : "1516574226142"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : -158033600,
+          "lngE7" : -480689586,
+          "timestampMs" : "1515953299978",
+          "accuracyMeters" : 39
+        }, {
+          "latE7" : -157853413,
+          "lngE7" : -480002782,
+          "timestampMs" : "1516449125327",
+          "accuracyMeters" : 53
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -274303112,
+        "longitudeE7" : -484498273,
+        "placeId" : "ChIJhctUkrpDJ5UR1zP2I6ejm5s",
+        "address" : "R. Antônio Heil, 212 - Canasvieiras\nFlorianópolis - SC\n88054-160\nBrasil",
+        "name" : "Residencial Sol e Mar de Floripa",
+        "sourceInfo" : {
+          "deviceTag" : 2106489802
+        },
+        "locationConfidence" : 95.48086
+      },
+      "duration" : {
+        "startTimestampMs" : "1516574226142",
+        "endTimestampMs" : "1516665133039"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : -274309707,
+      "centerLngE7" : -484500100,
+      "visitConfidence" : 87,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -274309251,
+        "longitudeE7" : -484499610,
+        "placeId" : "ChIJNUbXjLpDJ5UR5O9U0ODPvHE",
+        "name" : "POSADA RECANTO",
+        "locationConfidence" : 1.2729812
+      }, {
+        "latitudeE7" : -274307630,
+        "longitudeE7" : -484499060,
+        "placeId" : "ChIJ2-VmjbpDJ5URjF5vIt7DE9U",
+        "name" : "Mercado dos Amigos",
+        "locationConfidence" : 0.59838367
+      }, {
+        "latitudeE7" : -274298814,
+        "longitudeE7" : -484498142,
+        "placeId" : "ChIJhVTcvrpDJ5URrSx524KqHMk",
+        "name" : "Friends of the Market",
+        "locationConfidence" : 0.38324448
+      }, {
+        "latitudeE7" : -274283408,
+        "longitudeE7" : -484505854,
+        "placeId" : "ChIJI2tIO6VDJ5URmWx67orr1hk",
+        "name" : "GENOA Coffee Shop, Confeiteria,Restaurante",
+        "locationConfidence" : 0.2736214
+      }, {
+        "latitudeE7" : -274308180,
+        "longitudeE7" : -484501120,
+        "placeId" : "ChIJtzWd8rpDJ5URHE4CA9mk16s",
+        "locationConfidence" : 0.25047156
+      }, {
+        "latitudeE7" : -274300460,
+        "longitudeE7" : -484498690,
+        "placeId" : "ChIJS9W3v7pDJ5URO3zENKujSdc",
+        "name" : "Residencial Sol e Mar",
+        "locationConfidence" : 0.21192792
+      }, {
+        "latitudeE7" : -274309572,
+        "longitudeE7" : -484494328,
+        "placeId" : "ChIJHz2UiLpDJ5UR4M0EJdTV88k",
+        "name" : "Praia De Canasvieiras",
+        "locationConfidence" : 0.11776208
+      }, {
+        "latitudeE7" : -274309800,
+        "longitudeE7" : -484500310,
+        "placeId" : "ChIJu2Yw87pDJ5URdy0PGwmVFgQ",
+        "locationConfidence" : 0.111859806
+      }, {
+        "latitudeE7" : -274308899,
+        "longitudeE7" : -484497361,
+        "placeId" : "ChIJqUY8jLpDJ5URzeE8PE81mAs",
+        "name" : "Pousada Trapiche",
+        "locationConfidence" : 0.09098168
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -274258949,
+        "longitudeE7" : -484458895,
+        "placeId" : "ChIJOaq-jABCJ5URv8G8_Q5wmvI",
+        "address" : "R. das Buganvílias, 123 - Cachoeira do Bom Jesus\nFlorianópolis - SC\n88056-025\nBrasil",
+        "name" : "Hotel Porto Sol - Cachoeira do Bom Jesus e Ingleses",
+        "sourceInfo" : {
+          "deviceTag" : 2106489802
+        },
+        "locationConfidence" : 74.48111
+      },
+      "duration" : {
+        "startTimestampMs" : "1516766846333",
+        "endTimestampMs" : "1516819928227"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : -274293596,
+      "centerLngE7" : -484482424,
+      "visitConfidence" : 80,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -274267061,
+        "longitudeE7" : -484454886,
+        "placeId" : "ChIJ9STaOq5DJ5URuYLFstF7aB0",
+        "name" : "Cachoeira Do Bom Jesus - Florianópolis",
+        "locationConfidence" : 6.6030245
+      }, {
+        "latitudeE7" : -274267061,
+        "longitudeE7" : -484454886,
+        "placeId" : "ChIJsbqiLq5DJ5URUmKF3WLWAZI",
+        "name" : "Apt na Ilha da Magia",
+        "locationConfidence" : 5.020705
+      }, {
+        "latitudeE7" : -274266817,
+        "longitudeE7" : -484454905,
+        "placeId" : "ChIJwbqiLq5DJ5URBNLXMOpnjpw",
+        "locationConfidence" : 2.9595716
+      }, {
+        "latitudeE7" : -274272071,
+        "longitudeE7" : -484464560,
+        "placeId" : "ChIJQYJO0q9DJ5URzB0we_rMPT8",
+        "name" : "Barong hostel",
+        "locationConfidence" : 1.5267066
+      }, {
+        "latitudeE7" : -274258747,
+        "longitudeE7" : -484469910,
+        "placeId" : "ChIJS57d1q9DJ5URcPOf7jUQ-yU",
+        "name" : "Edifício Recanto da Cachoeira",
+        "locationConfidence" : 1.1470875
+      }, {
+        "latitudeE7" : -274267186,
+        "longitudeE7" : -484451495,
+        "placeId" : "ChIJqyT9Iq5DJ5URKktEFSpme_E",
+        "locationConfidence" : 1.0109813
+      }, {
+        "latitudeE7" : -274266817,
+        "longitudeE7" : -484454905,
+        "placeId" : "ChIJ_9IjOq5DJ5URSegFxdJMcIo",
+        "name" : "É Nois Praia Bar",
+        "locationConfidence" : 0.98938984
+      }, {
+        "latitudeE7" : -274256214,
+        "longitudeE7" : -484465913,
+        "placeId" : "ChIJIyCtrq9DJ5URpmm8RVFzC_E",
+        "name" : "BARONG Parador",
+        "locationConfidence" : 0.65120155
+      }, {
+        "latitudeE7" : -274267061,
+        "longitudeE7" : -484454886,
+        "placeId" : "ChIJ5bqiLq5DJ5URzEhu2lhMKk8",
+        "name" : "Aluguel de apto em Canasvieiras",
+        "locationConfidence" : 0.6092297
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -274258949,
+        "longitudeE7" : -484458895
+      },
+      "endLocation" : {
+        "latitudeE7" : -274322043,
+        "longitudeE7" : -484583266
+      },
+      "duration" : {
+        "startTimestampMs" : "1516819928227",
+        "endTimestampMs" : "1516821438000"
+      },
+      "distance" : 218,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 53.093518291905994
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 41.347420277496596
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 2.3639925207442465
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -274260215,
+          "lngE7" : -484461669
+        }, {
+          "latE7" : -274321994,
+          "lngE7" : -484581604
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "parkingEvent" : {
+        "timestampMs" : "1516821438000",
+        "location" : {
+          "latitudeE7" : -274322043,
+          "longitudeE7" : -484583266
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -274322043,
+        "longitudeE7" : -484583266,
+        "placeId" : "ChIJ-5ofgaJDJ5URUiV5NnDPr8w",
+        "address" : "Av. das Nações, 225 - Sala 05 - Canasvieiras\nFlorianópolis - SC\n88054-010\nBrasil",
+        "name" : "Lotérica GADU",
+        "sourceInfo" : {
+          "deviceTag" : 2106489802
+        },
+        "locationConfidence" : 87.99548
+      },
+      "duration" : {
+        "startTimestampMs" : "1516821438000",
+        "endTimestampMs" : "1516823071388"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : -274308931,
+      "centerLngE7" : -484575326,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -274328950,
+        "longitudeE7" : -484580920,
+        "placeId" : "ChIJH1IxQ71DJ5URy6pyd_Nc9lw",
+        "name" : "Banrisul",
+        "locationConfidence" : 3.2340317
+      }, {
+        "latitudeE7" : -274327120,
+        "longitudeE7" : -484576946,
+        "placeId" : "ChIJh7JqmKJDJ5URyKbYnuMjawc",
+        "name" : "Supermercado Imperatriz",
+        "locationConfidence" : 3.0190973
+      }, {
+        "latitudeE7" : -274369268,
+        "longitudeE7" : -484571528,
+        "placeId" : "ChIJOzOopZNGJ5URNvlen3zfF90",
+        "name" : "Events Center Luiz Henrique da Silveira",
+        "locationConfidence" : 0.38249022
+      }, {
+        "latitudeE7" : -274331206,
+        "longitudeE7" : -484583728,
+        "placeId" : "ChIJcZjmXb1DJ5URbCht-9MjVdc",
+        "name" : "Desk Warrior - Canasvieiras",
+        "locationConfidence" : 0.3026871
+      }, {
+        "latitudeE7" : -274333258,
+        "longitudeE7" : -484586809,
+        "placeId" : "ChIJ6x_p2JdDJ5URxYS6c7FR16A",
+        "name" : "Hotel Dom Fish",
+        "locationConfidence" : 0.173402
+      }, {
+        "latitudeE7" : -274339710,
+        "longitudeE7" : -484557750,
+        "placeId" : "ChIJfTmzUbxDJ5UR9LoT_msVg2I",
+        "name" : "Centro de Convenções Luiz Henrique da Silveira",
+        "locationConfidence" : 0.14336702
+      }, {
+        "latitudeE7" : -274336432,
+        "longitudeE7" : -484581733,
+        "placeId" : "ChIJUeFrZb1DJ5URhGYiRF-eVzI",
+        "name" : "Praça das Nações",
+        "locationConfidence" : 0.11619628
+      }, {
+        "latitudeE7" : -274323650,
+        "longitudeE7" : -484583330,
+        "placeId" : "ChIJp5QUUb1DJ5URiiTew8W1Kno",
+        "name" : "Das Nações Hotel",
+        "locationConfidence" : 0.08692435
+      }, {
+        "latitudeE7" : -274321743,
+        "longitudeE7" : -484575545,
+        "placeId" : "ChIJU5A2SL1DJ5UR0aRfvdS6ag4",
+        "name" : "Direto do Mar",
+        "locationConfidence" : 0.07917992
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -274308931,
+        "longitudeE7" : -484575326
+      },
+      "endLocation" : {
+        "latitudeE7" : -274322752,
+        "longitudeE7" : -484571371
+      },
+      "duration" : {
+        "startTimestampMs" : "1516823071388",
+        "endTimestampMs" : "1516833120503"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : -274310533,
+          "lngE7" : -484495275,
+          "timestampMs" : "1516823303530",
+          "accuracyMeters" : 500
+        }, {
+          "latE7" : -274309027,
+          "lngE7" : -484507763,
+          "timestampMs" : "1516823424237",
+          "accuracyMeters" : 400
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -274322752,
+        "longitudeE7" : -484571371
+      },
+      "endLocation" : {
+        "latitudeE7" : -274312917,
+        "longitudeE7" : -484509033
+      },
+      "duration" : {
+        "startTimestampMs" : "1516833120503",
+        "endTimestampMs" : "1516891270000"
+      },
+      "distance" : 624,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 45.707422760818716
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 41.83274410802948
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 5.772012771354429
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -274324150,
+          "lngE7" : -484571342
+        }, {
+          "latE7" : -274312782,
+          "lngE7" : -484505920
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -274497817,
+        "longitudeE7" : -484235850
+      },
+      "endLocation" : {
+        "latitudeE7" : -274512250,
+        "longitudeE7" : -484572883
+      },
+      "duration" : {
+        "startTimestampMs" : "1517099211231",
+        "endTimestampMs" : "1517184000000"
+      },
+      "distance" : 13145,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 58.47345935032201
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 21.34286575752687
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 14.624705027187055
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -274497699,
+          "lngE7" : -484235801
+        }, {
+          "latE7" : -274212665,
+          "lngE7" : -484340209
+        }, {
+          "latE7" : -274480152,
+          "lngE7" : -484316406
+        }, {
+          "latE7" : -274512252,
+          "lngE7" : -484572792
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -274512250,
+        "longitudeE7" : -484572883
+      },
+      "endLocation" : {
+        "latitudeE7" : -274321167,
+        "longitudeE7" : -484491567
+      },
+      "duration" : {
+        "startTimestampMs" : "1517184000000",
+        "endTimestampMs" : "1517224879000"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : -274314667,
+          "lngE7" : -484498550,
+          "timestampMs" : "1517224818000",
+          "accuracyMeters" : 2
+        }, {
+          "latE7" : -274322483,
+          "lngE7" : -484498767,
+          "timestampMs" : "1517224864000",
+          "accuracyMeters" : 2
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -274321167,
+        "longitudeE7" : -484491567
+      },
+      "endLocation" : {
+        "latitudeE7" : -274311253,
+        "longitudeE7" : -484496664
+      },
+      "duration" : {
+        "startTimestampMs" : "1517224879000",
+        "endTimestampMs" : "1517253058000"
+      },
+      "distance" : 9583,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 66.96833349397583
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 18.217484196860337
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 10.91662632062207
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -274320869,
+          "lngE7" : -484491691
+        }, {
+          "latE7" : -274489593,
+          "lngE7" : -484238700
+        }, {
+          "latE7" : -274311332,
+          "lngE7" : -484498710
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : -274490150,
+          "lngE7" : -484238200,
+          "timestampMs" : "1517252526000",
+          "accuracyMeters" : 3
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -274311253,
+        "longitudeE7" : -484496664
+      },
+      "endLocation" : {
+        "latitudeE7" : -274309320,
+        "longitudeE7" : -484496270
+      },
+      "duration" : {
+        "startTimestampMs" : "1517253058000",
+        "endTimestampMs" : "1517418923499"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : -274512250,
+          "lngE7" : -484572883,
+          "timestampMs" : "1517253058000",
+          "accuracyMeters" : 1
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -274303112,
+        "longitudeE7" : -484498273,
+        "placeId" : "ChIJhctUkrpDJ5UR1zP2I6ejm5s",
+        "address" : "R. Antônio Heil, 212 - Canasvieiras\nFlorianópolis - SC\n88054-160\nBrasil",
+        "name" : "Residencial Sol e Mar de Floripa",
+        "sourceInfo" : {
+          "deviceTag" : 2106489802
+        },
+        "locationConfidence" : 71.99699
+      },
+      "duration" : {
+        "startTimestampMs" : "1517418923499",
+        "endTimestampMs" : "1517419715036"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : -274309320,
+      "centerLngE7" : -484496270,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -274311180,
+        "longitudeE7" : -484498558,
+        "placeId" : "ChIJud23YrpDJ5URJxGcvFUlUeo",
+        "locationConfidence" : 16.060558
+      }, {
+        "latitudeE7" : -274309836,
+        "longitudeE7" : -484498049,
+        "placeId" : "ChIJ0xlSirpDJ5URiMuLJkO2tY4",
+        "name" : "Pousada do Leoncio",
+        "locationConfidence" : 5.0728216
+      }, {
+        "latitudeE7" : -274300460,
+        "longitudeE7" : -484498690,
+        "placeId" : "ChIJS9W3v7pDJ5URO3zENKujSdc",
+        "name" : "Rua Antônio Heil",
+        "locationConfidence" : 1.3066068
+      }, {
+        "latitudeE7" : -274309572,
+        "longitudeE7" : -484494328,
+        "placeId" : "ChIJHz2UiLpDJ5UR4M0EJdTV88k",
+        "name" : "Praia De Canasvieiras",
+        "locationConfidence" : 0.86072457
+      }, {
+        "latitudeE7" : -274298814,
+        "longitudeE7" : -484498142,
+        "placeId" : "ChIJhVTcvrpDJ5URrSx524KqHMk",
+        "name" : "Friends of the Market",
+        "locationConfidence" : 0.7055443
+      }, {
+        "latitudeE7" : -274310861,
+        "longitudeE7" : -484492635,
+        "placeId" : "ChIJ4e5efLpDJ5URE6ICngvtlNw",
+        "name" : "Residencial Varandas",
+        "locationConfidence" : 0.49881172
+      }, {
+        "latitudeE7" : -274307630,
+        "longitudeE7" : -484499060,
+        "placeId" : "ChIJ2-VmjbpDJ5URjF5vIt7DE9U",
+        "name" : "Rua Antônio Heil",
+        "locationConfidence" : 0.42104244
+      }, {
+        "latitudeE7" : -274308899,
+        "longitudeE7" : -484497361,
+        "placeId" : "ChIJqUY8jLpDJ5URzeE8PE81mAs",
+        "name" : "Pousada Trapiche",
+        "locationConfidence" : 0.3726975
+      }, {
+        "latitudeE7" : -274283408,
+        "longitudeE7" : -484505854,
+        "placeId" : "ChIJI2tIO6VDJ5URmWx67orr1hk",
+        "name" : "GENOA Coffee Shop, Confeiteria,Restaurante",
+        "locationConfidence" : 0.33944836
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -274303112,
+        "longitudeE7" : -484498273
+      },
+      "endLocation" : {
+        "latitudeE7" : -274258438,
+        "longitudeE7" : -484501342
+      },
+      "duration" : {
+        "startTimestampMs" : "1517419715036",
+        "endTimestampMs" : "1517420586233"
+      },
+      "distance" : 501,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 83.11230493796128
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 13.623422909525736
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.4460684922084992
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -274303131,
+          "lngE7" : -484498977
+        }, {
+          "latE7" : -274258441,
+          "lngE7" : -484501380
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -274258438,
+        "longitudeE7" : -484501342,
+        "placeId" : "ChIJE8gTNvRDJ5URDypozoMeD8E",
+        "address" : "Trapiche - Canasvieiras, Florianópolis - Santa Catarina, 88054-160, Brasil",
+        "name" : "Trapiche Canasvieiras",
+        "sourceInfo" : {
+          "deviceTag" : 2106489802
+        },
+        "locationConfidence" : 64.73527
+      },
+      "duration" : {
+        "startTimestampMs" : "1517420586233",
+        "endTimestampMs" : "1517421078066"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : -274265880,
+      "centerLngE7" : -484507580,
+      "visitConfidence" : 87,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -274264048,
+        "longitudeE7" : -484505989,
+        "placeId" : "ChIJDWn9o6VDJ5URnvH5mgK_T0s",
+        "name" : "Core Schooners - Boat Trips",
+        "locationConfidence" : 14.043651
+      }, {
+        "latitudeE7" : -274268796,
+        "longitudeE7" : -484501129,
+        "placeId" : "ChIJA8W0bKVDJ5URAuyBFZsWJN0",
+        "name" : "Scuna South Canasvieiras",
+        "locationConfidence" : 5.9287224
+      }, {
+        "latitudeE7" : -274260581,
+        "longitudeE7" : -484497604,
+        "placeId" : "ChIJ8yltmaVDJ5URBRkr9h9YBic",
+        "name" : "Praia de Canasvieiras",
+        "locationConfidence" : 3.0615358
+      }, {
+        "latitudeE7" : -274259491,
+        "longitudeE7" : -484500614,
+        "placeId" : "ChIJAfoa-KRDJ5URS8MnL2K76zI",
+        "name" : "Barco Pirata",
+        "locationConfidence" : 2.1909971
+      }, {
+        "latitudeE7" : -274265292,
+        "longitudeE7" : -484505636,
+        "placeId" : "ChIJqfk9pqVDJ5URPdPssBCUw6Y",
+        "name" : "Barco Pirata Da Ilha",
+        "locationConfidence" : 1.20348
+      }, {
+        "latitudeE7" : -274276671,
+        "longitudeE7" : -484515422,
+        "placeId" : "ChIJD3QM46RDJ5URvdkx5261-Yk",
+        "name" : "Al Mare Palace Hotel",
+        "locationConfidence" : 1.0565873
+      }, {
+        "latitudeE7" : -274283408,
+        "longitudeE7" : -484505854,
+        "placeId" : "ChIJI2tIO6VDJ5URmWx67orr1hk",
+        "name" : "GENOA Coffee Shop, Confeiteria,Restaurante",
+        "locationConfidence" : 0.90085304
+      }, {
+        "latitudeE7" : -274270330,
+        "longitudeE7" : -484525630,
+        "placeId" : "ChIJNQl1Z6RDJ5URc5YBqLN49eo",
+        "name" : "PARADOR 88 Restaurante e Petiscaria Beira-Mar",
+        "locationConfidence" : 0.42184532
+      }, {
+        "latitudeE7" : -274286438,
+        "longitudeE7" : -484510759,
+        "placeId" : "ChIJR5jm3qRDJ5URv1npdPLG0_E",
+        "name" : "Essencial, Salão com Ju Castro",
+        "locationConfidence" : 0.35703304
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -274258438,
+        "longitudeE7" : -484501342
+      },
+      "endLocation" : {
+        "latitudeE7" : -274272146,
+        "longitudeE7" : -484561995
+      },
+      "duration" : {
+        "startTimestampMs" : "1517421078066",
+        "endTimestampMs" : "1517421574000"
+      },
+      "distance" : 224,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 88.19943163959965
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 6.004678116740772
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.9559952105353133
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -274258441,
+          "lngE7" : -484501380
+        }, {
+          "latE7" : -274274444,
+          "lngE7" : -484561614
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -274271924,
+        "longitudeE7" : -484562211,
+        "placeId" : "ChIJD9XNzKNDJ5UR1SkJZ8GKKRQ",
+        "address" : "R. Antenor Borges, 241 - Canasvieiras\nFlorianópolis - SC\n88054-070\nBrasil",
+        "name" : "Restaurante Terra Santa Canasvieiras",
+        "locationConfidence" : 100.0
+      },
+      "duration" : {
+        "startTimestampMs" : "1517421574000",
+        "endTimestampMs" : "1517428941000"
+      },
+      "placeConfidence" : "USER_CONFIRMED",
+      "visitConfidence" : 100,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -274272141,
+        "longitudeE7" : -484583925,
+        "placeId" : "ChIJDTcFAqJDJ5UR8JZ5i8Minzw",
+        "locationConfidence" : 6.1187806
+      }, {
+        "latitudeE7" : -274273359,
+        "longitudeE7" : -484544176,
+        "placeId" : "ChIJv-Dkk6NDJ5URET71Opj-gB0",
+        "locationConfidence" : 2.4589262
+      }, {
+        "latitudeE7" : -274271383,
+        "longitudeE7" : -484549380,
+        "placeId" : "ChIJk-pMlaNDJ5URG44WIkEaJmc",
+        "locationConfidence" : 2.356261
+      }, {
+        "latitudeE7" : -274282369,
+        "longitudeE7" : -484580622,
+        "placeId" : "ChIJXx2xEqJDJ5URIuSNDMwQTBY",
+        "locationConfidence" : 1.1767291
+      }, {
+        "latitudeE7" : -274279313,
+        "longitudeE7" : -484582589,
+        "placeId" : "ChIJsQBZDqJDJ5URWWjTgBMALvA",
+        "locationConfidence" : 0.33899832
+      }, {
+        "latitudeE7" : -274286946,
+        "longitudeE7" : -484560984,
+        "placeId" : "ChIJS6CLqqNDJ5URdhThrGTKbb8",
+        "locationConfidence" : 0.32909042
+      }, {
+        "latitudeE7" : -274289003,
+        "longitudeE7" : -484584419,
+        "placeId" : "ChIJ0TAyd6JDJ5URVkMXmWLQVq4",
+        "locationConfidence" : 0.31619313
+      }, {
+        "latitudeE7" : -274288956,
+        "longitudeE7" : -484564400,
+        "placeId" : "ChIJTT1j_6JDJ5URJGV_2WiB-TY",
+        "locationConfidence" : 0.30602306
+      }, {
+        "latitudeE7" : -274287572,
+        "longitudeE7" : -484567671,
+        "placeId" : "ChIJ7454DZxDJ5URU0aecvIX89E",
+        "locationConfidence" : 0.2627103
+      } ],
+      "editConfirmationStatus" : "CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -274272146,
+        "longitudeE7" : -484561995
+      },
+      "endLocation" : {
+        "latitudeE7" : -274303112,
+        "longitudeE7" : -484498273
+      },
+      "duration" : {
+        "startTimestampMs" : "1517428941000",
+        "endTimestampMs" : "1517429110000"
+      },
+      "distance" : 107,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 95.73685284826409
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 3.4523903391498725
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.4004924845124861
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -274274444,
+          "lngE7" : -484561614
+        }, {
+          "latE7" : -274303131,
+          "lngE7" : -484498977
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -274303112,
+        "longitudeE7" : -484498273,
+        "placeId" : "ChIJhctUkrpDJ5UR1zP2I6ejm5s",
+        "address" : "R. Antônio Heil, 212 - Canasvieiras\nFlorianópolis - SC\n88054-160\nBrasil",
+        "name" : "Residencial Sol e Mar de Floripa",
+        "sourceInfo" : {
+          "deviceTag" : 2106489802
+        },
+        "locationConfidence" : 70.96462
+      },
+      "duration" : {
+        "startTimestampMs" : "1517429110000",
+        "endTimestampMs" : "1517575615307"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : -274267664,
+      "centerLngE7" : -484524591,
+      "visitConfidence" : 100,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -274311180,
+        "longitudeE7" : -484498558,
+        "placeId" : "ChIJud23YrpDJ5URJxGcvFUlUeo",
+        "locationConfidence" : 14.439857
+      }, {
+        "latitudeE7" : -274311705,
+        "longitudeE7" : -484498049,
+        "placeId" : "ChIJ0xlSirpDJ5URiMuLJkO2tY4",
+        "locationConfidence" : 7.9907928
+      }, {
+        "latitudeE7" : -274300460,
+        "longitudeE7" : -484498690,
+        "placeId" : "ChIJS9W3v7pDJ5URO3zENKujSdc",
+        "locationConfidence" : 3.485231
+      }, {
+        "latitudeE7" : -274283408,
+        "longitudeE7" : -484505854,
+        "placeId" : "ChIJI2tIO6VDJ5URmWx67orr1hk",
+        "locationConfidence" : 0.46459696
+      }, {
+        "latitudeE7" : -274298814,
+        "longitudeE7" : -484498142,
+        "placeId" : "ChIJhVTcvrpDJ5URrSx524KqHMk",
+        "locationConfidence" : 0.46172258
+      }, {
+        "latitudeE7" : -274309572,
+        "longitudeE7" : -484494328,
+        "placeId" : "ChIJHz2UiLpDJ5UR4M0EJdTV88k",
+        "locationConfidence" : 0.21905553
+      }, {
+        "latitudeE7" : -274283660,
+        "longitudeE7" : -484508330,
+        "placeId" : "ChIJdebf6qRDJ5URSihbnY7yTX8",
+        "locationConfidence" : 0.15361537
+      }, {
+        "latitudeE7" : -274307630,
+        "longitudeE7" : -484499060,
+        "placeId" : "ChIJ2-VmjbpDJ5URjF5vIt7DE9U",
+        "locationConfidence" : 0.116738394
+      }, {
+        "latitudeE7" : -274296919,
+        "longitudeE7" : -484496104,
+        "placeId" : "ChIJi73yu7pDJ5URkHN2L6JC9nM",
+        "locationConfidence" : 0.085682884
+      } ],
+      "editConfirmationStatus" : "CONFIRMED"
+    }
+  } ]
+}

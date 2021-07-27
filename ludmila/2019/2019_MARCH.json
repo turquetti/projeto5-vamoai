@@ -1,0 +1,404 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -158082890,
+        "longitudeE7" : -478811490,
+        "placeId" : "ChIJG2_UDSg7WpMRfYudAD6EG6E",
+        "address" : "SGA/Sul Quadra 602 Projeção D Parte A\nAsa Sul\nBrasília - DF\n70200-030\nBrasil",
+        "name" : "Brasilia Music School",
+        "sourceInfo" : {
+          "deviceTag" : 1162640334
+        },
+        "locationConfidence" : 99.19109
+      },
+      "duration" : {
+        "startTimestampMs" : "1551987749949",
+        "endTimestampMs" : "1551988486898"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : -158084129,
+      "centerLngE7" : -478810800,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -158071360,
+        "longitudeE7" : -478811972,
+        "placeId" : "ChIJ9xGb6Cc7WpMRsRrVMRpxa4o",
+        "locationConfidence" : 0.1263275
+      }, {
+        "latitudeE7" : -158070554,
+        "longitudeE7" : -478805999,
+        "placeId" : "ChIJ50Gbdig7WpMR-33BXE9t1qs",
+        "locationConfidence" : 0.081899524
+      }, {
+        "latitudeE7" : -158059730,
+        "longitudeE7" : -478818830,
+        "placeId" : "ChIJlWDIhSc7WpMRN5o_z3HL8V0",
+        "locationConfidence" : 0.06956749
+      }, {
+        "latitudeE7" : -158059830,
+        "longitudeE7" : -478818900,
+        "placeId" : "ChIJVVVVFSc7WpMRe2McpOkmA5M",
+        "locationConfidence" : 0.037668176
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -157816365,
+        "longitudeE7" : -480012873,
+        "placeId" : "ChIJ6xlxg-IzWpMRgIl_I-2U_PY",
+        "address" : "SCSV Quadra 03 Conjunto 01 Lt 25\nSt. Oeste - Guará\nBrasília - DF\n71255-705\nBrasil",
+        "name" : "Visão Missionária da Última Hora",
+        "sourceInfo" : {
+          "deviceTag" : 1412540267
+        },
+        "locationConfidence" : 52.64376
+      },
+      "duration" : {
+        "startTimestampMs" : "1552672826214",
+        "endTimestampMs" : "1552676562387"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : -157814597,
+      "centerLngE7" : -480012597,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -157815514,
+        "longitudeE7" : -480011673,
+        "placeId" : "ChIJ6d0pg-IzWpMRTM9kLQ7by04",
+        "locationConfidence" : 40.567226
+      }, {
+        "latitudeE7" : -157813777,
+        "longitudeE7" : -480015511,
+        "placeId" : "ChIJyfVDmuIzWpMR6FIltxckpQs",
+        "locationConfidence" : 2.9921732
+      }, {
+        "latitudeE7" : -157822260,
+        "longitudeE7" : -480004556,
+        "placeId" : "ChIJrQPlhVgxWpMR8BLfk651Kg8",
+        "locationConfidence" : 0.53112155
+      }, {
+        "latitudeE7" : -157826760,
+        "longitudeE7" : -479996040,
+        "placeId" : "ChIJMad57VgxWpMRx41a3735F9s",
+        "locationConfidence" : 0.35781255
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -157816365,
+        "longitudeE7" : -480012873,
+        "sourceInfo" : {
+          "deviceTag" : 1412540267
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : -158355060,
+        "longitudeE7" : -480459100,
+        "sourceInfo" : {
+          "deviceTag" : 1412540267
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1552676562387",
+        "endTimestampMs" : "1552687303645"
+      },
+      "distance" : 7704,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 70.1946781139347
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 17.60204693054927
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 6.386636828990144
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -157816619,
+          "lngE7" : -480013694
+        }, {
+          "latE7" : -157912597,
+          "lngE7" : -479975395
+        }, {
+          "latE7" : -158353424,
+          "lngE7" : -480455551
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1552687199816",
+        "location" : {
+          "latitudeE7" : -158354217,
+          "longitudeE7" : -480461287,
+          "accuracyMetres" : 76
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -158355060,
+        "longitudeE7" : -480459100,
+        "placeId" : "ChIJN6lfbPMyWpMRUGCYigNVPxc",
+        "address" : "Avenida das Araucárias, Rua 214 Lote 1/17\nQS 1 - Taguatinga\nBrasília - DF\n72025-120\nBrasil",
+        "name" : "University Center of Brasília - Taguatinga Campus II",
+        "sourceInfo" : {
+          "deviceTag" : 1412540267
+        },
+        "locationConfidence" : 98.436806
+      },
+      "duration" : {
+        "startTimestampMs" : "1552687303645",
+        "endTimestampMs" : "1552698353172"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : -158354404,
+      "centerLngE7" : -480461946,
+      "visitConfidence" : 95,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -158355269,
+        "longitudeE7" : -480453590,
+        "placeId" : "ChIJOT97nPQyWpMRwJg259zrj3U",
+        "locationConfidence" : 0.68571585
+      }, {
+        "latitudeE7" : -158344270,
+        "longitudeE7" : -480475031,
+        "placeId" : "ChIJoesaJxIyWpMR0ZFdfGyZH9E",
+        "locationConfidence" : 0.29514387
+      }, {
+        "latitudeE7" : -158345855,
+        "longitudeE7" : -480436970,
+        "placeId" : "ChIJSXwV4QMzWpMR2dFnUtdL1ik",
+        "locationConfidence" : 0.048042282
+      }, {
+        "latitudeE7" : -158343307,
+        "longitudeE7" : -480439039,
+        "placeId" : "ChIJc0CjVQczWpMReX8QNcjLRjg",
+        "locationConfidence" : 0.032196842
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : -158358699,
+          "lngE7" : -480463415,
+          "timestampMs" : "1552693992670",
+          "accuracyMeters" : 15
+        }, {
+          "latE7" : -158353414,
+          "lngE7" : -480465203,
+          "timestampMs" : "1552694117039",
+          "accuracyMeters" : 16
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -158346422,
+        "longitudeE7" : -480468931,
+        "sourceInfo" : {
+          "deviceTag" : 1412540267
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : -158331650,
+        "longitudeE7" : -480545833,
+        "sourceInfo" : {
+          "deviceTag" : 1412540267
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1552698353172",
+        "endTimestampMs" : "1552701729000"
+      },
+      "distance" : 1005,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 87.59471624559983
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 9.30986312704095
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.6446186389241985
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -158346672,
+          "lngE7" : -480469322
+        }, {
+          "latE7" : -158363599,
+          "lngE7" : -480483322
+        }, {
+          "latE7" : -158330640,
+          "lngE7" : -480546073
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : -158352581,
+          "lngE7" : -480481001,
+          "timestampMs" : "1552698474323",
+          "accuracyMeters" : 22
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -158331614,
+        "longitudeE7" : -480546031,
+        "placeId" : "ChIJ6yhSwe4yWpMRJTDlbXpyQT8",
+        "address" : "Taguatinga\nBrasília - DF\n72010-070\nBrasil",
+        "name" : "St. Central C 6 - Taguatinga",
+        "sourceInfo" : {
+          "deviceTag" : 1412540267
+        },
+        "locationConfidence" : 13.052292
+      },
+      "duration" : {
+        "startTimestampMs" : "1552701729000",
+        "endTimestampMs" : "1552702713039"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : -158328987,
+      "centerLngE7" : -480544360,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -158333449,
+        "longitudeE7" : -480569240,
+        "placeId" : "ChIJvywDI-kyWpMRxvclq0AlMlU",
+        "locationConfidence" : 13.050796
+      }, {
+        "latitudeE7" : -158327206,
+        "longitudeE7" : -480547365,
+        "placeId" : "ChIJeTNy2-4yWpMRPeUtqu2euYc",
+        "locationConfidence" : 9.39466
+      }, {
+        "latitudeE7" : -158331216,
+        "longitudeE7" : -480565630,
+        "placeId" : "ChIJ1-XSI-kyWpMRqKNbkiS8GJ4",
+        "locationConfidence" : 5.4170265
+      }, {
+        "latitudeE7" : -158330502,
+        "longitudeE7" : -480536319,
+        "placeId" : "ChIJyYzm7e4yWpMR5bkZHvaXTMU",
+        "locationConfidence" : 2.135162
+      }, {
+        "latitudeE7" : -158321459,
+        "longitudeE7" : -480541660,
+        "placeId" : "ChIJ5-oNae4yWpMRy-WyL-xJXkE",
+        "locationConfidence" : 2.0714214
+      }, {
+        "latitudeE7" : -158326895,
+        "longitudeE7" : -480542472,
+        "placeId" : "ChIJlwnr5-4yWpMRGBTToNpUMP8",
+        "locationConfidence" : 0.75289935
+      }, {
+        "latitudeE7" : -158337329,
+        "longitudeE7" : -480537120,
+        "placeId" : "ChIJdbQYkO4yWpMR4cSer3-MXnI",
+        "locationConfidence" : 0.67976046
+      }, {
+        "latitudeE7" : -158337338,
+        "longitudeE7" : -480532627,
+        "placeId" : "ChIJcR0whu4yWpMRNVFFkNJJK1M",
+        "locationConfidence" : 0.6089163
+      }, {
+        "latitudeE7" : -158319698,
+        "longitudeE7" : -480559932,
+        "placeId" : "ChIJebkuzugyWpMRowfZf-QaecM",
+        "locationConfidence" : 0.58127993
+      }, {
+        "latitudeE7" : -158310001,
+        "longitudeE7" : -480554705,
+        "placeId" : "ChIJ9VtATO8yWpMRRHzohF_SspU",
+        "locationConfidence" : 0.5082022
+      }, {
+        "latitudeE7" : -158343783,
+        "longitudeE7" : -480529848,
+        "placeId" : "ChIJA-Lg1O0yWpMRBHO5aq-evcI",
+        "locationConfidence" : 0.5004836
+      }, {
+        "latitudeE7" : -158316792,
+        "longitudeE7" : -480525084,
+        "placeId" : "ChIJBZtdk6_SW5MR5Gco6Z93ZGc",
+        "locationConfidence" : 0.4892817
+      }, {
+        "latitudeE7" : -158308880,
+        "longitudeE7" : -480551339,
+        "placeId" : "ChIJ276mTO8yWpMRPZD7d1GpBC0",
+        "locationConfidence" : 0.46652305
+      }, {
+        "latitudeE7" : -158322838,
+        "longitudeE7" : -480532259,
+        "placeId" : "ChIJ4YHf-O4yWpMRZGEpZ2KDeek",
+        "locationConfidence" : 0.4539888
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -158327477,
+        "longitudeE7" : -480543883,
+        "sourceInfo" : {
+          "deviceTag" : 1412540267
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : -157815260,
+        "longitudeE7" : -480012836,
+        "sourceInfo" : {
+          "deviceTag" : 1412540267
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1552702713039",
+        "endTimestampMs" : "1552703818234"
+      },
+      "distance" : 8940,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 57.93083697135067
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 24.476544998422924
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 11.865748983681161
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -158327436,
+          "lngE7" : -480543899
+        }, {
+          "latE7" : -158345794,
+          "lngE7" : -480475463
+        }, {
+          "latE7" : -157815389,
+          "lngE7" : -480013961
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : -158343477,
+          "lngE7" : -480480003,
+          "timestampMs" : "1552702834057",
+          "accuracyMeters" : 30
+        } ]
+      }
+    }
+  } ]
+}

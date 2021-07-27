@@ -1,0 +1,198 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -157816365,
+        "longitudeE7" : -480012873,
+        "placeId" : "ChIJ6xlxg-IzWpMRgIl_I-2U_PY",
+        "address" : "SCSV Quadra 03 Conjunto 01 Lt 25\nSt. Oeste - Guará\nBrasília - DF\n71255-705\nBrasil",
+        "name" : "Visão Missionária da Última Hora",
+        "sourceInfo" : {
+          "deviceTag" : 2106489802
+        },
+        "locationConfidence" : 90.32621
+      },
+      "duration" : {
+        "startTimestampMs" : "1525855594000",
+        "endTimestampMs" : "1525856787000"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : -157815237,
+      "centerLngE7" : -480013001,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -157813777,
+        "longitudeE7" : -480015511,
+        "placeId" : "ChIJyfVDmuIzWpMR6FIltxckpQs",
+        "name" : "Igreja de Cristo ESTRUTURAL",
+        "locationConfidence" : 4.0769405
+      }, {
+        "latitudeE7" : -157815514,
+        "longitudeE7" : -480011673,
+        "placeId" : "ChIJj1s-fOIzWpMRRj0Wopd44bM",
+        "locationConfidence" : 1.9479245
+      }, {
+        "latitudeE7" : -157822260,
+        "longitudeE7" : -480004556,
+        "placeId" : "ChIJrQPlhVgxWpMR8BLfk651Kg8",
+        "name" : "6673 - Scia Q 14 A,",
+        "locationConfidence" : 1.1081914
+      }, {
+        "latitudeE7" : -157811228,
+        "longitudeE7" : -479989832,
+        "placeId" : "ChIJbxAvTlgxWpMRG7Zz8RjeAJg",
+        "name" : "Seventh-day Adventist Church - Structural City",
+        "locationConfidence" : 1.0330698
+      }, {
+        "latitudeE7" : -157821398,
+        "longitudeE7" : -479997726,
+        "placeId" : "ChIJ3S8y81gxWpMRE9ecbj3j6Wk",
+        "name" : "Estrada Epvl, s/n",
+        "locationConfidence" : 0.20940582
+      }, {
+        "latitudeE7" : -157823184,
+        "longitudeE7" : -479997195,
+        "placeId" : "ChIJ2Ydf7VgxWpMRvHHV-4wWHoc",
+        "name" : "Maná Lanches",
+        "locationConfidence" : 0.123769
+      }, {
+        "latitudeE7" : -157819787,
+        "longitudeE7" : -479998675,
+        "placeId" : "ChIJG30Vi1gxWpMRY7aEGHY07vA",
+        "name" : "Droga Lane",
+        "locationConfidence" : 0.12146749
+      }, {
+        "latitudeE7" : -157813764,
+        "longitudeE7" : -479996555,
+        "placeId" : "ChIJSYfOXVgxWpMRo35R1DBTWDY",
+        "name" : "Brasillia Estrutural Top Lanches E Pizzaria",
+        "locationConfidence" : 0.109155364
+      }, {
+        "latitudeE7" : -157832798,
+        "longitudeE7" : -479995471,
+        "placeId" : "ChIJix4SghExWpMRka-kOe6-kjQ",
+        "name" : "VinilSul Brasília",
+        "locationConfidence" : 0.104851775
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -157815617,
+        "longitudeE7" : -480013217,
+        "sourceInfo" : {
+          "deviceTag" : 2106489802
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : -158242740,
+        "longitudeE7" : -479282072,
+        "sourceInfo" : {
+          "deviceTag" : 2106489802
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1525856787000",
+        "endTimestampMs" : "1525858636000"
+      },
+      "distance" : 16465,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 96.91988892205092
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.4287800351377737
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.355344821365722
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -157815704,
+          "lngE7" : -480013923
+        }, {
+          "latE7" : -157856597,
+          "lngE7" : -479972991
+        }, {
+          "latE7" : -158307876,
+          "lngE7" : -479295005
+        }, {
+          "latE7" : -158303184,
+          "lngE7" : -479297790
+        }, {
+          "latE7" : -158242568,
+          "lngE7" : -479281806
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : -157821827,
+          "lngE7" : -479996833,
+          "timestampMs" : "1525856956000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : -158300433,
+          "lngE7" : -479297150,
+          "timestampMs" : "1525858112000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : -158284433,
+          "lngE7" : -479309100,
+          "timestampMs" : "1525858192000",
+          "accuracyMeters" : 10
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -158268772,
+        "longitudeE7" : -480522905,
+        "sourceInfo" : {
+          "deviceTag" : 2106489802
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : -158229767,
+        "longitudeE7" : -480900683,
+        "sourceInfo" : {
+          "deviceTag" : 2106489802
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1526039846594",
+        "endTimestampMs" : "1526046655000"
+      },
+      "distance" : 4064,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 63.931384217426114
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 21.266068458384293
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 8.336036156578439
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -158264074,
+          "lngE7" : -480512161
+        }, {
+          "latE7" : -158342475,
+          "lngE7" : -480799217
+        }, {
+          "latE7" : -158228998,
+          "lngE7" : -480900955
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}

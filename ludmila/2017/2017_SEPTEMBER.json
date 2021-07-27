@@ -1,0 +1,500 @@
+{
+  "timelineObjects" : [ {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -157843072,
+        "longitudeE7" : -479967775
+      },
+      "endLocation" : {
+        "latitudeE7" : -157816365,
+        "longitudeE7" : -480012873,
+        "placeId" : "ChIJ6xlxg-IzWpMRgIl_I-2U_PY",
+        "address" : "SCSV Quadra 03 Conjunto 01 Lt 25\nSt. Oeste - Guará\nBrasília - DF\n71255-705\nBrasil",
+        "name" : "Visão Missionária da Última Hora",
+        "sourceInfo" : {
+          "deviceTag" : 2106489802
+        },
+        "locationConfidence" : 36.568714
+      },
+      "duration" : {
+        "startTimestampMs" : "1504881609490",
+        "endTimestampMs" : "1504881842274"
+      },
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 97.74048626318303
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 1.624548472573981
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.27310581361294595
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -157843179,
+          "lngE7" : -479966926
+        }, {
+          "latE7" : -157813653,
+          "lngE7" : -480002250
+        }, {
+          "latE7" : -157806444,
+          "lngE7" : -480001144
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : -157817450,
+          "lngE7" : -480004387,
+          "timestampMs" : "1504881842274",
+          "accuracyMeters" : 50
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -157816365,
+        "longitudeE7" : -480012873,
+        "placeId" : "ChIJ6xlxg-IzWpMRgIl_I-2U_PY",
+        "address" : "SCSV Quadra 03 Conjunto 01 Lt 25\nSt. Oeste - Guará\nBrasília - DF\n71255-705\nBrasil",
+        "name" : "Visão Missionária da Última Hora",
+        "sourceInfo" : {
+          "deviceTag" : 2106489802
+        },
+        "locationConfidence" : 36.568714
+      },
+      "duration" : {
+        "startTimestampMs" : "1504881842274",
+        "endTimestampMs" : "1504883664659"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : -157813192,
+      "centerLngE7" : -480007000,
+      "visitConfidence" : 86,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -157814999,
+        "longitudeE7" : -480011482,
+        "placeId" : "ChIJoSoTCeIzWpMRRFNIroZ1XrM",
+        "locationConfidence" : 35.605045
+      }, {
+        "latitudeE7" : -157826760,
+        "longitudeE7" : -479996040,
+        "placeId" : "ChIJMad57VgxWpMRx41a3735F9s",
+        "name" : "Point Net Computers and Lan House",
+        "locationConfidence" : 11.188236
+      }, {
+        "latitudeE7" : -157822260,
+        "longitudeE7" : -480004556,
+        "placeId" : "ChIJrQPlhVgxWpMR8BLfk651Kg8",
+        "name" : "6673 - Scia Q 14 A,",
+        "locationConfidence" : 2.5754018
+      }, {
+        "latitudeE7" : -157821398,
+        "longitudeE7" : -479997726,
+        "placeId" : "ChIJ3S8y81gxWpMRE9ecbj3j6Wk",
+        "name" : "Estrada Epvl, s/n",
+        "locationConfidence" : 2.370418
+      }, {
+        "latitudeE7" : -157813777,
+        "longitudeE7" : -480015511,
+        "placeId" : "ChIJyfVDmuIzWpMR6FIltxckpQs",
+        "name" : "Igreja de Cristo ESTRUTURAL",
+        "locationConfidence" : 1.7680169
+      }, {
+        "latitudeE7" : -157815022,
+        "longitudeE7" : -479993158,
+        "placeId" : "ChIJT2yEdFgxWpMRAbpX1WbHA-0",
+        "name" : "Restaurante Comunitário - Estrutural",
+        "locationConfidence" : 1.2639879
+      }, {
+        "latitudeE7" : -157816903,
+        "longitudeE7" : -479995823,
+        "placeId" : "ChIJsUtiX1gxWpMR6xOZdm3Qzx0",
+        "name" : "BRB - Banco de Brasília",
+        "locationConfidence" : 1.2111999
+      }, {
+        "latitudeE7" : -157815891,
+        "longitudeE7" : -479999430,
+        "placeId" : "ChIJFXriYFgxWpMRmpQYQuy4D-k",
+        "name" : "Top Lanches",
+        "locationConfidence" : 0.45686236
+      }, {
+        "latitudeE7" : -157821853,
+        "longitudeE7" : -479997527,
+        "placeId" : "ChIJ_47X8lgxWpMRW6HsB6mDdf4",
+        "name" : "Pizzaria Neres",
+        "locationConfidence" : 0.4286826
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -157803536,
+        "longitudeE7" : -478739129
+      },
+      "endLocation" : {
+        "latitudeE7" : -157595267,
+        "longitudeE7" : -478779400
+      },
+      "duration" : {
+        "startTimestampMs" : "1505402904564",
+        "endTimestampMs" : "1505403334000"
+      },
+      "distance" : 2287,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 90.33078650639071
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 7.012203805030019
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.195561187552089
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -157803554,
+          "lngE7" : -478739433
+        }, {
+          "latE7" : -157595357,
+          "lngE7" : -478779754
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -157595456,
+        "longitudeE7" : -478786023,
+        "placeId" : "ChIJhc6-Eso7WpMR_-ybDkFidaU",
+        "address" : "SHC/N EQ. 408/409\nBL A\nAsa Norte\nBrasília - DF\n70855-400\nBrasil",
+        "name" : "BIG BOX Supermercados 408 NORTE: Delivery em Asa Norte, Brasília DF",
+        "sourceInfo" : {
+          "deviceTag" : 2106489802
+        },
+        "locationConfidence" : 99.675995
+      },
+      "duration" : {
+        "startTimestampMs" : "1505403334000",
+        "endTimestampMs" : "1505416324600"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : -157557321,
+      "centerLngE7" : -478778622,
+      "visitConfidence" : 83,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -157631573,
+        "longitudeE7" : -478706311,
+        "placeId" : "ChIJJ9CiZYI5WpMRBBFMq1HWMZQ",
+        "name" : "University of Brasília",
+        "locationConfidence" : 0.08790509
+      }, {
+        "latitudeE7" : -157587114,
+        "longitudeE7" : -478773162,
+        "placeId" : "ChIJXaWJq4PxXpMRx3tQoMcrlb8",
+        "name" : "Universa Foundation",
+        "locationConfidence" : 0.0563174
+      }, {
+        "latitudeE7" : -157596860,
+        "longitudeE7" : -478785588,
+        "placeId" : "ChIJzebMcso7WpMRWorfuYcW-yo",
+        "name" : "Caixa Econômica Federal",
+        "locationConfidence" : 0.032685917
+      }, {
+        "latitudeE7" : -157600246,
+        "longitudeE7" : -478796824,
+        "placeId" : "ChIJ9W4Mfco7WpMR9mcAlkVJyjI",
+        "name" : "Bar Pôr do Sol",
+        "locationConfidence" : 0.012226138
+      }, {
+        "latitudeE7" : -157595883,
+        "longitudeE7" : -478778373,
+        "placeId" : "ChIJyXukBco7WpMR_RFsRQcWG5w",
+        "name" : "Via L2 Norte",
+        "locationConfidence" : 0.009778019
+      }, {
+        "latitudeE7" : -157572795,
+        "longitudeE7" : -478777606,
+        "placeId" : "ChIJVa9OsQc7WpMRAiao7u7gOiw",
+        "name" : "Instituto de Educação Superior de Brasília Centro Universitário, Campus Giovanina RimolI",
+        "locationConfidence" : 0.009274402
+      }, {
+        "latitudeE7" : -157598398,
+        "longitudeE7" : -478790549,
+        "placeId" : "ChIJ531XcMo7WpMROfSkWpuah8k",
+        "name" : "Shakyt Confecções de Roupas",
+        "locationConfidence" : 0.0035689801
+      }, {
+        "latitudeE7" : -157579927,
+        "longitudeE7" : -478777036,
+        "placeId" : "ChIJVa9OsQc7WpMRilxXqOp1WEE",
+        "name" : "Divine Word Parish",
+        "locationConfidence" : 0.003506029
+      }, {
+        "latitudeE7" : -157596978,
+        "longitudeE7" : -478804021,
+        "placeId" : "ChIJZ7MJkso7WpMRwT9wMK92LJk",
+        "name" : "Hamburgueria Do Frances",
+        "locationConfidence" : 0.0028622989
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -157595456,
+        "longitudeE7" : -478786023
+      },
+      "endLocation" : {
+        "latitudeE7" : -157631573,
+        "longitudeE7" : -478706311
+      },
+      "duration" : {
+        "startTimestampMs" : "1505416324600",
+        "endTimestampMs" : "1505418554093"
+      },
+      "distance" : 413,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 42.547471394312076
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 29.104427814104344
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 24.08455372076366
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -157596597,
+          "lngE7" : -478788452
+        }, {
+          "latE7" : -157636995,
+          "lngE7" : -478706169
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "parkingEvent" : {
+        "timestampMs" : "1505418554093",
+        "location" : {
+          "latitudeE7" : -157631573,
+          "longitudeE7" : -478706311
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -157631573,
+        "longitudeE7" : -478706311,
+        "placeId" : "ChIJJ9CiZYI5WpMRBBFMq1HWMZQ",
+        "address" : "Brasília\nDF\n70910-900\nBrasil",
+        "name" : "University of Brasília",
+        "sourceInfo" : {
+          "deviceTag" : 2106489802
+        },
+        "locationConfidence" : 99.06067
+      },
+      "duration" : {
+        "startTimestampMs" : "1505418554093",
+        "endTimestampMs" : "1505419402136"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : -157648933,
+      "centerLngE7" : -478727300,
+      "visitConfidence" : 81,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -157651171,
+        "longitudeE7" : -478759107,
+        "placeId" : "ChIJz4BPO7E7WpMRXRytl4jRQVM",
+        "name" : "Condomínio do Edifício Brasília Medical Center",
+        "locationConfidence" : 0.06897006
+      }, {
+        "latitudeE7" : -157656846,
+        "longitudeE7" : -478733658,
+        "placeId" : "ChIJvY71i7A7WpMRPKQQ4F7qvKE",
+        "name" : "Observatório Sismológico- UnB",
+        "locationConfidence" : 0.06377141
+      }, {
+        "latitudeE7" : -157637050,
+        "longitudeE7" : -478754346,
+        "placeId" : "ChIJVa9OsQc7WpMRB2G8Oj8uLN4",
+        "name" : "Secretaria de Estado de Educação do Distrito Federal - Unidade II",
+        "locationConfidence" : 0.057362482
+      }, {
+        "latitudeE7" : -157647256,
+        "longitudeE7" : -478744224,
+        "placeId" : "ChIJtf6P27A7WpMR_kj9BdF3KTg",
+        "name" : "Centro do Ser Integral - Terapias e Cursos",
+        "locationConfidence" : 0.033494134
+      }, {
+        "latitudeE7" : -157649832,
+        "longitudeE7" : -478752271,
+        "placeId" : "ChIJw-ryI7E7WpMRYJQSGKasJcM",
+        "name" : "Siena Café",
+        "locationConfidence" : 0.032955352
+      }, {
+        "latitudeE7" : -157647940,
+        "longitudeE7" : -478748090,
+        "placeId" : "ChIJRUmj2LA7WpMRw8vn0TJV_Ro",
+        "name" : "Institute Castro and Santos",
+        "locationConfidence" : 0.028621579
+      }, {
+        "latitudeE7" : -157649303,
+        "longitudeE7" : -478751456,
+        "placeId" : "ChIJYyMaxHU_WpMRMEBjkIBWkWI",
+        "name" : "Moreira e Bastos Advogados Associados",
+        "locationConfidence" : 0.025961278
+      }, {
+        "latitudeE7" : -157650251,
+        "longitudeE7" : -478755748,
+        "placeId" : "ChIJieBiO7E7WpMRQijM4RYAbw4",
+        "name" : "Centro Clinico Brasilia Medical Center",
+        "locationConfidence" : 0.02517597
+      }, {
+        "latitudeE7" : -157650970,
+        "longitudeE7" : -478757450,
+        "placeId" : "ChIJF0oEPLE7WpMRfDci3hdWarc",
+        "name" : "Estúdio Posturar",
+        "locationConfidence" : 0.020944972
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -157808330,
+        "longitudeE7" : -479978152
+      },
+      "endLocation" : {
+        "latitudeE7" : -158120916,
+        "longitudeE7" : -479055150
+      },
+      "duration" : {
+        "startTimestampMs" : "1505575252611",
+        "endTimestampMs" : "1505578068000"
+      },
+      "distance" : 13814,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 58.003553850019394
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 28.611199580231293
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 8.664138772974974
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -157807483,
+          "lngE7" : -479978332
+        }, {
+          "latE7" : -158306188,
+          "lngE7" : -479298477
+        }, {
+          "latE7" : -158120508,
+          "lngE7" : -479055480
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : -158306267,
+          "lngE7" : -479298200,
+          "timestampMs" : "1505577681000",
+          "accuracyMeters" : 3
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -158120916,
+        "longitudeE7" : -479055150
+      },
+      "endLocation" : {
+        "latitudeE7" : -157871578,
+        "longitudeE7" : -479074934
+      },
+      "duration" : {
+        "startTimestampMs" : "1505578068000",
+        "endTimestampMs" : "1506115878074"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : -157867950,
+          "lngE7" : -479083517,
+          "timestampMs" : "1506115816000",
+          "accuracyMeters" : 6
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -157871578,
+        "longitudeE7" : -479074934
+      },
+      "endLocation" : {
+        "latitudeE7" : -158027433,
+        "longitudeE7" : -478857417
+      },
+      "duration" : {
+        "startTimestampMs" : "1506115878074",
+        "endTimestampMs" : "1506116390000"
+      },
+      "distance" : 3578,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 98.83208553447446
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.47233643266874054
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.3487214106940306
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -157871112,
+          "lngE7" : -479074668
+        }, {
+          "latE7" : -157982997,
+          "lngE7" : -478955459
+        }, {
+          "latE7" : -158026695,
+          "lngE7" : -478858680
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : -157982717,
+          "lngE7" : -478956717,
+          "timestampMs" : "1506116159000",
+          "accuracyMeters" : 3
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}

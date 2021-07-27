@@ -1,0 +1,1394 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -157814999,
+        "longitudeE7" : -480011482,
+        "placeId" : "ChIJCYR6CeIzWpMRaAWVD10Mvqk",
+        "address" : "Scia Q 2 Conjunto F, 62 - Brasília\nDF\n70297-400\nBrasil",
+        "name" : "Scia Q 2 Conjunto F, 62",
+        "sourceInfo" : {
+          "deviceTag" : 2106489802
+        },
+        "locationConfidence" : 79.745575
+      },
+      "duration" : {
+        "startTimestampMs" : "1507159391000",
+        "endTimestampMs" : "1507197411721"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : -157817529,
+      "centerLngE7" : -480010552,
+      "visitConfidence" : 82,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -157816365,
+        "longitudeE7" : -480012873,
+        "placeId" : "ChIJ6xlxg-IzWpMRgIl_I-2U_PY",
+        "name" : "Visão Missionária da Última Hora",
+        "locationConfidence" : 11.865855
+      }, {
+        "latitudeE7" : -157822260,
+        "longitudeE7" : -480004556,
+        "placeId" : "ChIJrQPlhVgxWpMR8BLfk651Kg8",
+        "name" : "6673 - Scia Q 14 A,",
+        "locationConfidence" : 3.750404
+      }, {
+        "latitudeE7" : -157813777,
+        "longitudeE7" : -480015511,
+        "placeId" : "ChIJyfVDmuIzWpMR6FIltxckpQs",
+        "name" : "Igreja de Cristo ESTRUTURAL",
+        "locationConfidence" : 1.0514858
+      }, {
+        "latitudeE7" : -157814846,
+        "longitudeE7" : -479996855,
+        "placeId" : "ChIJUy1pXlgxWpMRopREpbebjg0",
+        "name" : "Rod. Df-087 Epvl - Guará",
+        "locationConfidence" : 0.6078662
+      }, {
+        "latitudeE7" : -157821398,
+        "longitudeE7" : -479997726,
+        "placeId" : "ChIJ3S8y81gxWpMRE9ecbj3j6Wk",
+        "name" : "Estrada Epvl, s/n",
+        "locationConfidence" : 0.6058793
+      }, {
+        "latitudeE7" : -157800424,
+        "longitudeE7" : -480015902,
+        "placeId" : "ChIJE1eTreIzWpMRq7e6s-ei0b8",
+        "name" : "6674 - Q 14 C,",
+        "locationConfidence" : 0.39066958
+      }, {
+        "latitudeE7" : -158219693,
+        "longitudeE7" : -479812152,
+        "placeId" : "ChIJ9yrpgX46WpMRENfmkZB-iwk",
+        "locationConfidence" : 0.12678307
+      }, {
+        "latitudeE7" : -157816730,
+        "longitudeE7" : -480002186,
+        "placeId" : "ChIJk86vY1gxWpMRDJhr53xswpI",
+        "name" : "Domínio Consultoria e Tecnologia Racional",
+        "locationConfidence" : 0.10955766
+      }, {
+        "latitudeE7" : -157809300,
+        "longitudeE7" : -479997443,
+        "placeId" : "ChIJKTNtQlgxWpMRKfy3pLmqvH4",
+        "name" : "Igreja Alianca Cristã E Missionária",
+        "locationConfidence" : 0.106628045
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -158190139,
+        "longitudeE7" : -481543204,
+        "placeId" : "ChIJjYPajRvMW5MRSraMTzb63N0",
+        "address" : "SH Sol Nascente 128 A Conjunto H\nSH Sol Nascente Condominio 5 - Ceilândia\nBrasília - DF\nBrasil",
+        "name" : "Supermercado Gardel",
+        "sourceInfo" : {
+          "deviceTag" : 2106489802
+        },
+        "locationConfidence" : 40.812305
+      },
+      "duration" : {
+        "startTimestampMs" : "1507339961000",
+        "endTimestampMs" : "1507340716347"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : -158186943,
+      "centerLngE7" : -481543324,
+      "visitConfidence" : 75,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -158182614,
+        "longitudeE7" : -481531182,
+        "placeId" : "ChIJ3S_CrxvMW5MR1D90al6A6FA",
+        "name" : "Escola Classe 66 de Ceilândia (EC 66)",
+        "locationConfidence" : 36.728947
+      }, {
+        "latitudeE7" : -158191650,
+        "longitudeE7" : -481544410,
+        "placeId" : "ChIJcceKjBvMW5MRRDoBQz9GdS0",
+        "name" : "Congregação Cristã no Brasil - CCB Cinco Estrelas",
+        "locationConfidence" : 7.2976084
+      }, {
+        "latitudeE7" : -158184290,
+        "longitudeE7" : -481541712,
+        "placeId" : "ChIJY0JImxvMW5MRx6KmjH3lEz4",
+        "name" : "Salao Do Piau",
+        "locationConfidence" : 3.44771
+      }, {
+        "latitudeE7" : -158188950,
+        "longitudeE7" : -481541520,
+        "placeId" : "ChIJVbyakRvMW5MRBTS1IClFT08",
+        "name" : "Lucas Distribuidora De Bebidas",
+        "locationConfidence" : 1.9789057
+      }, {
+        "latitudeE7" : -158166494,
+        "longitudeE7" : -481532423,
+        "placeId" : "ChIJwUj6PRvMW5MR1ywAvWBiJjs",
+        "name" : "Sh Sol Nascente/Cond Chac 78 - Gênesis Q D - Ceilândia",
+        "locationConfidence" : 1.8510312
+      }, {
+        "latitudeE7" : -158166112,
+        "longitudeE7" : -481532880,
+        "placeId" : "ChIJhzULPhvMW5MRRq2ZOKLC25I",
+        "name" : "Supermercado Trem Bão",
+        "locationConfidence" : 0.99809444
+      }, {
+        "latitudeE7" : -158170190,
+        "longitudeE7" : -481534034,
+        "placeId" : "ChIJrZSGExvMW5MRVEpt4tNe3BI",
+        "name" : "Supermercado Compre Mais",
+        "locationConfidence" : 0.85411566
+      }, {
+        "latitudeE7" : -158170456,
+        "longitudeE7" : -481532972,
+        "placeId" : "ChIJgyHnExvMW5MRpe9kjkNJuyI",
+        "name" : "Terminal Sol Nascente",
+        "locationConfidence" : 0.687294
+      }, {
+        "latitudeE7" : -158166778,
+        "longitudeE7" : -481552329,
+        "placeId" : "ChIJd4TYpRzMW5MRlNA8B1MiZOI",
+        "locationConfidence" : 0.4948957
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -158429276,
+        "longitudeE7" : -479724797,
+        "placeId" : "ChIJI7nHEiYuWpMRWjnZlX6XT2U",
+        "address" : "Sria II Qe 34 Conjunto M, 18 - Guará\nBrasília - DF\n71065-132\nBrasil",
+        "name" : "Sria II Qe 34 Conjunto M, 18",
+        "sourceInfo" : {
+          "deviceTag" : 2106489802
+        },
+        "locationConfidence" : 29.74593
+      },
+      "duration" : {
+        "startTimestampMs" : "1507389050014",
+        "endTimestampMs" : "1507389517000"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : -158429429,
+      "centerLngE7" : -479725986,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -158431406,
+        "longitudeE7" : -479709662,
+        "placeId" : "ChIJuY96Uy8uWpMRoSgV9QueCoM",
+        "name" : "OURO PÃO PÃES E CONVENIÊCIAS",
+        "locationConfidence" : 7.646896
+      }, {
+        "latitudeE7" : -158432139,
+        "longitudeE7" : -479706280,
+        "placeId" : "ChIJ9WB6TS8uWpMRUwX2GfqrfSk",
+        "name" : "Ciclovia Bike",
+        "locationConfidence" : 7.61259
+      }, {
+        "latitudeE7" : -158431760,
+        "longitudeE7" : -479707960,
+        "placeId" : "ChIJxclWUi8uWpMRhkYnQ9VpFLo",
+        "name" : "PET HOME - Pet Shop Guará",
+        "locationConfidence" : 5.7083526
+      }, {
+        "latitudeE7" : -158409403,
+        "longitudeE7" : -479726989,
+        "placeId" : "ChIJE3MAtScuWpMRUt2zlivui9Y",
+        "name" : "MARIA BRASILEIRA",
+        "locationConfidence" : 3.075176
+      }, {
+        "latitudeE7" : -158408210,
+        "longitudeE7" : -479727540,
+        "placeId" : "ChIJjwIitCcuWpMREpRiNzIH-Hk",
+        "name" : "Drogatati",
+        "locationConfidence" : 2.0179317
+      }, {
+        "latitudeE7" : -158437042,
+        "longitudeE7" : -479751590,
+        "placeId" : "ChIJlRScoSYuWpMRwzvUHKqKex8",
+        "name" : "APIZZA MIL",
+        "locationConfidence" : 1.6566615
+      }, {
+        "latitudeE7" : -158431160,
+        "longitudeE7" : -479707340,
+        "placeId" : "ChIJoRTw6CEuWpMRBX1WG1Ddjao",
+        "name" : "HomePrint",
+        "locationConfidence" : 1.535405
+      }, {
+        "latitudeE7" : -158408395,
+        "longitudeE7" : -479725491,
+        "placeId" : "ChIJV6qq0icuWpMRbDsaPASUA2o",
+        "name" : "Drogaria Rosário",
+        "locationConfidence" : 1.365237
+      }, {
+        "latitudeE7" : -158433100,
+        "longitudeE7" : -479722158,
+        "placeId" : "ChIJQUn_CSYuWpMR3GMC-9JclDs",
+        "name" : "Mediai Agencia Digital",
+        "locationConfidence" : 1.2364107
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -158429276,
+        "longitudeE7" : -479724797
+      },
+      "endLocation" : {
+        "latitudeE7" : -158432032,
+        "longitudeE7" : -479687172
+      },
+      "duration" : {
+        "startTimestampMs" : "1507389517000",
+        "endTimestampMs" : "1507389974760"
+      },
+      "distance" : 409,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 93.97704847659065
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 4.802682364966956
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.4858319311601229
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -158429708,
+          "lngE7" : -479724731
+        }, {
+          "latE7" : -158431634,
+          "lngE7" : -479683227
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -158432032,
+        "longitudeE7" : -479687172,
+        "placeId" : "ChIJx6cB2y4uWpMRrJaudP-9GQM",
+        "address" : "Entrequadras 34/36 Conjunto F\nGuará II QE 34 - Guará\nBrasília - DF\n71065-023\nBrasil",
+        "name" : "Educational Center 01 Guará",
+        "sourceInfo" : {
+          "deviceTag" : 2106489802
+        },
+        "locationConfidence" : 98.979416
+      },
+      "duration" : {
+        "startTimestampMs" : "1507389974760",
+        "endTimestampMs" : "1507390957197"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : -158432075,
+      "centerLngE7" : -479683175,
+      "visitConfidence" : 85,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -158432303,
+        "longitudeE7" : -479683356,
+        "placeId" : "ChIJc-hx2y4uWpMRBjFwYrLudwc",
+        "name" : "Arruda Transporte Escolar",
+        "locationConfidence" : 0.15819032
+      }, {
+        "latitudeE7" : -158431406,
+        "longitudeE7" : -479709662,
+        "placeId" : "ChIJuY96Uy8uWpMRoSgV9QueCoM",
+        "name" : "OURO PÃO PÃES E CONVENIÊCIAS",
+        "locationConfidence" : 0.123591654
+      }, {
+        "latitudeE7" : -158433532,
+        "longitudeE7" : -479683221,
+        "placeId" : "ChIJLfmdSC8uWpMRYPO1iXUhDyo",
+        "name" : "May & Lú Bombons",
+        "locationConfidence" : 0.10164536
+      }, {
+        "latitudeE7" : -158433940,
+        "longitudeE7" : -479678364,
+        "placeId" : "ChIJcVvqwS4uWpMRWoI7xIv4ruU",
+        "name" : "Sesi-fax",
+        "locationConfidence" : 0.09601018
+      }, {
+        "latitudeE7" : -158432139,
+        "longitudeE7" : -479706280,
+        "placeId" : "ChIJ9WB6TS8uWpMRUwX2GfqrfSk",
+        "name" : "Ciclovia Bike",
+        "locationConfidence" : 0.07632036
+      }, {
+        "latitudeE7" : -158425610,
+        "longitudeE7" : -479663059,
+        "placeId" : "ChIJrVw6HSwuWpMRLaB1LpmqUnU",
+        "name" : "Sria II Qe 36 Conjunto F",
+        "locationConfidence" : 0.06846092
+      }, {
+        "latitudeE7" : -158458625,
+        "longitudeE7" : -479671220,
+        "placeId" : "ChIJiWqBES4uWpMRg2F0JsmnjGQ",
+        "name" : "Chalé da Traira",
+        "locationConfidence" : 0.06756206
+      }, {
+        "latitudeE7" : -158434746,
+        "longitudeE7" : -479682624,
+        "placeId" : "ChIJAfl5TyEuWpMRqYHHX7gIqdQ",
+        "name" : "RAPIDO DESPACHANTES LTDA.",
+        "locationConfidence" : 0.06352684
+      }, {
+        "latitudeE7" : -158460054,
+        "longitudeE7" : -479682398,
+        "placeId" : "ChIJQ8gbOC4uWpMRzEEH28_45Qk",
+        "name" : "Sria II Qe 38 Ae 8 - Guará",
+        "locationConfidence" : 0.04160859
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -157870633,
+        "longitudeE7" : -479452700
+      },
+      "endLocation" : {
+        "latitudeE7" : -158036652,
+        "longitudeE7" : -479404672,
+        "placeId" : "ChIJPzMFqbsxWpMRGSYc80o9oPg",
+        "address" : "SHC AOS Entrequadras 2/8 lote 5\nOctogonal - Sul\nBrasília - DF\n70660-090\nBrasil",
+        "name" : "Terraço Shopping",
+        "sourceInfo" : {
+          "deviceTag" : 2106489802
+        },
+        "locationConfidence" : 57.658978
+      },
+      "duration" : {
+        "startTimestampMs" : "1507465069000",
+        "endTimestampMs" : "1507467865000"
+      },
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 99.00601644403302
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.7924539790326139
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.09419921405940758
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -157869968,
+          "lngE7" : -479452972
+        }, {
+          "latE7" : -157792520,
+          "lngE7" : -479381561
+        }, {
+          "latE7" : -157822208,
+          "lngE7" : -479373435
+        }, {
+          "latE7" : -157838296,
+          "lngE7" : -479378852
+        }, {
+          "latE7" : -157882575,
+          "lngE7" : -479383926
+        }, {
+          "latE7" : -157907028,
+          "lngE7" : -479390068
+        }, {
+          "latE7" : -157936744,
+          "lngE7" : -479399299
+        }, {
+          "latE7" : -157965049,
+          "lngE7" : -479412345
+        }, {
+          "latE7" : -158015527,
+          "lngE7" : -479446334
+        }, {
+          "latE7" : -158031053,
+          "lngE7" : -479454040
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : -157792387,
+          "lngE7" : -479381256,
+          "timestampMs" : "1507465261000",
+          "accuracyMeters" : 3
+        }, {
+          "latE7" : -157819834,
+          "lngE7" : -479377632,
+          "timestampMs" : "1507465667773",
+          "accuracyMeters" : 26
+        }, {
+          "latE7" : -157838163,
+          "lngE7" : -479379272,
+          "timestampMs" : "1507465787000",
+          "accuracyMeters" : 3
+        }, {
+          "latE7" : -157881889,
+          "lngE7" : -479386253,
+          "timestampMs" : "1507466457760",
+          "accuracyMeters" : 21
+        }, {
+          "latE7" : -157906199,
+          "lngE7" : -479389458,
+          "timestampMs" : "1507466697000",
+          "accuracyMeters" : 3
+        }, {
+          "latE7" : -157936735,
+          "lngE7" : -479399338,
+          "timestampMs" : "1507467058000",
+          "accuracyMeters" : 2
+        }, {
+          "latE7" : -157965279,
+          "lngE7" : -479410667,
+          "timestampMs" : "1507467476000",
+          "accuracyMeters" : 6
+        }, {
+          "latE7" : -158015785,
+          "lngE7" : -479446144,
+          "timestampMs" : "1507468458000",
+          "accuracyMeters" : 3
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -158036652,
+        "longitudeE7" : -479404672,
+        "placeId" : "ChIJPzMFqbsxWpMRGSYc80o9oPg",
+        "address" : "SHC AOS Entrequadras 2/8 lote 5\nOctogonal - Sul\nBrasília - DF\n70660-090\nBrasil",
+        "name" : "Terraço Shopping",
+        "sourceInfo" : {
+          "deviceTag" : 2106489802
+        },
+        "locationConfidence" : 57.658978
+      },
+      "duration" : {
+        "startTimestampMs" : "1507467865000",
+        "endTimestampMs" : "1507468350000"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : -158006940,
+          "longitudeE7" : -479429853,
+          "placeId" : "ChIJmSnhol0wWpMRDLzLyO6GsoM",
+          "address" : "Cruzeiro Novo Condomínio do Bloco F da Shces 301 Cruzeiro Novo - Brasília, Distrito Federal, Brasil",
+          "name" : "cruzeiro novo",
+          "sourceInfo" : {
+            "deviceTag" : 2106489802
+          },
+          "locationConfidence" : 10.063402
+        },
+        "duration" : {
+          "startTimestampMs" : "1507467865000",
+          "endTimestampMs" : "1507468350000"
+        },
+        "placeConfidence" : "LOW_CONFIDENCE",
+        "centerLatE7" : -158012355,
+        "centerLngE7" : -479427726,
+        "visitConfidence" : 80,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : -158004913,
+          "longitudeE7" : -479429086,
+          "placeId" : "ChIJcxT5lV0wWpMRxCAp8Ll3VuM",
+          "name" : "Correios",
+          "locationConfidence" : 8.062533
+        }, {
+          "latitudeE7" : -158017422,
+          "longitudeE7" : -479420423,
+          "placeId" : "ChIJyTxQZF0wWpMRJr-6xX15BD8",
+          "name" : "Lanche Skate Park",
+          "locationConfidence" : 7.689075
+        }, {
+          "latitudeE7" : -158022701,
+          "longitudeE7" : -479417017,
+          "placeId" : "ChIJt3YUX10wWpMRB9_HA_o9fOc",
+          "name" : "Pista de skate sucatão",
+          "locationConfidence" : 4.8838787
+        }, {
+          "latitudeE7" : -158011165,
+          "longitudeE7" : -479424969,
+          "placeId" : "ChIJRfsXnl0wWpMRPvF_KLJM8Cg",
+          "name" : "Shces Q 407",
+          "locationConfidence" : 3.7556727
+        }, {
+          "latitudeE7" : -158018437,
+          "longitudeE7" : -479417094,
+          "placeId" : "ChIJ73OWYV0wWpMR1fVEdpg-Zz8",
+          "name" : "Ponto de Encontro",
+          "locationConfidence" : 2.468604
+        }, {
+          "latitudeE7" : -157995110,
+          "longitudeE7" : -479417453,
+          "placeId" : "ChIJ-a68il0wWpMRJWtxWHF2p9Q",
+          "name" : "CIMAN",
+          "locationConfidence" : 2.3252888
+        }, {
+          "latitudeE7" : -158007647,
+          "longitudeE7" : -479421854,
+          "placeId" : "ChIJX18Xg10wWpMRO2ulk7OUN0g",
+          "name" : "Health Center No. 9",
+          "locationConfidence" : 1.1035506
+        }, {
+          "latitudeE7" : -158016680,
+          "longitudeE7" : -479427849,
+          "placeId" : "ChIJMWu_cl0wWpMRyBr_BbFBGXU",
+          "name" : "Viva Leve",
+          "locationConfidence" : 0.73740077
+        }, {
+          "latitudeE7" : -157996579,
+          "longitudeE7" : -479422737,
+          "placeId" : "ChIJAQAMHVUlWpMR9erQeptoLUw",
+          "name" : "Condomínio Edifício Santa Maria - Bloco C",
+          "locationConfidence" : 0.5212596
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : -158012355,
+      "centerLngE7" : -479427726,
+      "visitConfidence" : 80,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -158006940,
+        "longitudeE7" : -479429853,
+        "placeId" : "ChIJmSnhol0wWpMRDLzLyO6GsoM",
+        "name" : "cruzeiro novo",
+        "locationConfidence" : 7.7117186
+      }, {
+        "latitudeE7" : -158004913,
+        "longitudeE7" : -479429086,
+        "placeId" : "ChIJcxT5lV0wWpMRxCAp8Ll3VuM",
+        "name" : "Correios",
+        "locationConfidence" : 6.178426
+      }, {
+        "latitudeE7" : -158017422,
+        "longitudeE7" : -479420423,
+        "placeId" : "ChIJyTxQZF0wWpMRJr-6xX15BD8",
+        "name" : "Lanche Skate Park",
+        "locationConfidence" : 5.89224
+      }, {
+        "latitudeE7" : -158022701,
+        "longitudeE7" : -479417017,
+        "placeId" : "ChIJt3YUX10wWpMRB9_HA_o9fOc",
+        "name" : "Pista de skate sucatão",
+        "locationConfidence" : 3.742581
+      }, {
+        "latitudeE7" : -158011165,
+        "longitudeE7" : -479424969,
+        "placeId" : "ChIJRfsXnl0wWpMRPvF_KLJM8Cg",
+        "name" : "Shces Q 407",
+        "locationConfidence" : 2.8780217
+      }, {
+        "latitudeE7" : -158018437,
+        "longitudeE7" : -479417094,
+        "placeId" : "ChIJ73OWYV0wWpMR1fVEdpg-Zz8",
+        "name" : "Ponto de Encontro",
+        "locationConfidence" : 1.891724
+      }, {
+        "latitudeE7" : -157995110,
+        "longitudeE7" : -479417453,
+        "placeId" : "ChIJ-a68il0wWpMRJWtxWHF2p9Q",
+        "name" : "CIMAN",
+        "locationConfidence" : 1.7818996
+      }, {
+        "latitudeE7" : -158007647,
+        "longitudeE7" : -479421854,
+        "placeId" : "ChIJX18Xg10wWpMRO2ulk7OUN0g",
+        "name" : "Health Center No. 9",
+        "locationConfidence" : 0.8456654
+      }, {
+        "latitudeE7" : -158016680,
+        "longitudeE7" : -479427849,
+        "placeId" : "ChIJMWu_cl0wWpMRyBr_BbFBGXU",
+        "name" : "Viva Leve",
+        "locationConfidence" : 0.5650799
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : -158001867,
+          "lngE7" : -479425950,
+          "timestampMs" : "1507467865000",
+          "accuracyMeters" : 2
+        }, {
+          "latE7" : -158016650,
+          "lngE7" : -479424583,
+          "timestampMs" : "1507468209000",
+          "accuracyMeters" : 1
+        }, {
+          "latE7" : -158013683,
+          "lngE7" : -479436100,
+          "timestampMs" : "1507468334000",
+          "accuracyMeters" : 1
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -157977733,
+        "longitudeE7" : -480001233
+      },
+      "endLocation" : {
+        "latitudeE7" : -158409323,
+        "longitudeE7" : -479748801
+      },
+      "duration" : {
+        "startTimestampMs" : "1507837066000",
+        "endTimestampMs" : "1507838005000"
+      },
+      "distance" : 7925,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 73.30241905540957
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 17.987470220596123
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 7.3675594381404
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -157977771,
+          "lngE7" : -480001106
+        }, {
+          "latE7" : -158409471,
+          "lngE7" : -479748840
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -158408583,
+        "longitudeE7" : -479754533
+      },
+      "endLocation" : {
+        "latitudeE7" : -158395459,
+        "longitudeE7" : -479758036,
+        "placeId" : "ChIJh56eAtkxWpMRjT5ui2PMEBY",
+        "address" : "QE 17/19 Área Especial B\nGuará\nBrasília - DF\n71050-175\nBrasil",
+        "name" : "Educational Center 03",
+        "sourceInfo" : {
+          "deviceTag" : 2106489802
+        },
+        "locationConfidence" : 97.32049
+      },
+      "duration" : {
+        "startTimestampMs" : "1507838005000",
+        "endTimestampMs" : "1507838464455"
+      },
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 55.13563222796213
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 39.628235177500905
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 4.867970783715143
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -158408308,
+          "lngE7" : -479754447
+        }, {
+          "latE7" : -158406696,
+          "lngE7" : -479729385
+        }, {
+          "latE7" : -158396263,
+          "lngE7" : -479758224
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : -158407545,
+          "lngE7" : -479728889,
+          "timestampMs" : "1507838191407",
+          "accuracyMeters" : 20
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -158395459,
+        "longitudeE7" : -479758036,
+        "placeId" : "ChIJh56eAtkxWpMRjT5ui2PMEBY",
+        "address" : "QE 17/19 Área Especial B\nGuará\nBrasília - DF\n71050-175\nBrasil",
+        "name" : "Educational Center 03",
+        "sourceInfo" : {
+          "deviceTag" : 2106489802
+        },
+        "locationConfidence" : 97.32049
+      },
+      "duration" : {
+        "startTimestampMs" : "1507838464455",
+        "endTimestampMs" : "1507843451485"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : -158397975,
+      "centerLngE7" : -479756506,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -158400640,
+        "longitudeE7" : -479751320,
+        "placeId" : "ChIJrYRSpTYzWpMRJoAjYyTfUfg",
+        "name" : "Consultório Odontológico Dr. Evandro Pulcinelli",
+        "locationConfidence" : 0.120865345
+      }, {
+        "latitudeE7" : -158402996,
+        "longitudeE7" : -479759635,
+        "placeId" : "ChIJ1___EScuWpMRucEVTu9uAEQ",
+        "name" : "Ótica Guará",
+        "locationConfidence" : 0.10470154
+      }, {
+        "latitudeE7" : -158400039,
+        "longitudeE7" : -479758284,
+        "placeId" : "ChIJ-eLIUScuWpMRAGFUBPqu54Q",
+        "name" : "Status Cabeleireiros",
+        "locationConfidence" : 0.09646497
+      }, {
+        "latitudeE7" : -158395404,
+        "longitudeE7" : -479780406,
+        "placeId" : "ChIJaYkjsusxWpMR54UIQRmTTek",
+        "name" : "Clínica de Olhos Goretti Mello",
+        "locationConfidence" : 0.09105689
+      }, {
+        "latitudeE7" : -158409240,
+        "longitudeE7" : -479726490,
+        "placeId" : "ChIJsUWntScuWpMRuRriOQiYF20",
+        "name" : "Estúdio de Beleza Borges de Lima",
+        "locationConfidence" : 0.080751844
+      }, {
+        "latitudeE7" : -158403135,
+        "longitudeE7" : -479758287,
+        "placeId" : "ChIJPTl1S7AxWpMRSHrMX6UaK84",
+        "name" : "H & B Utilidades",
+        "locationConfidence" : 0.08049893
+      }, {
+        "latitudeE7" : -158408911,
+        "longitudeE7" : -479740628,
+        "placeId" : "ChIJE3tWOZYxWpMRNtDBtQ0Sges",
+        "name" : "Empório Natus Produtos Naturais",
+        "locationConfidence" : 0.07915481
+      }, {
+        "latitudeE7" : -158395650,
+        "longitudeE7" : -479780370,
+        "placeId" : "ChIJdUPgZN8xWpMRX_FdqA6eOiU",
+        "name" : "Instituto Caminhar",
+        "locationConfidence" : 0.0617386
+      }, {
+        "latitudeE7" : -158416444,
+        "longitudeE7" : -479753721,
+        "placeId" : "ChIJ1_03JycuWpMR0TF-N7dMDkI",
+        "name" : "Boteco da Sereia",
+        "locationConfidence" : 0.060612224
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -158395459,
+        "longitudeE7" : -479758036,
+        "placeId" : "ChIJh56eAtkxWpMRjT5ui2PMEBY",
+        "address" : "QE 17/19 Área Especial B\nGuará\nBrasília - DF\n71050-175\nBrasil",
+        "name" : "Educational Center 03",
+        "sourceInfo" : {
+          "deviceTag" : 2106489802
+        },
+        "locationConfidence" : 97.32049
+      },
+      "endLocation" : {
+        "latitudeE7" : -158399254,
+        "longitudeE7" : -479754701
+      },
+      "duration" : {
+        "startTimestampMs" : "1507843451485",
+        "endTimestampMs" : "1507844438132"
+      },
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 76.38862847242588
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 20.55769118473019
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.2586586191221345
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -158399085,
+          "lngE7" : -479750251
+        }, {
+          "latE7" : -158395643,
+          "lngE7" : -479759407
+        }, {
+          "latE7" : -158397989,
+          "lngE7" : -479754219
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : -158398676,
+          "lngE7" : -479761200,
+          "timestampMs" : "1507843211364",
+          "accuracyMeters" : 26
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -158399254,
+        "longitudeE7" : -479754701
+      },
+      "endLocation" : {
+        "latitudeE7" : -157940856,
+        "longitudeE7" : -478820033
+      },
+      "duration" : {
+        "startTimestampMs" : "1507844438132",
+        "endTimestampMs" : "1508337117064"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : -157941317,
+          "lngE7" : -478858600,
+          "timestampMs" : "1508336743090",
+          "accuracyMeters" : 5
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -157938729,
+        "longitudeE7" : -478820065,
+        "placeId" : "ChIJ-9q4AB47WpMRO5LO7oYD7Xc",
+        "address" : "Brasília\nDF\n70297-400\nBrasil",
+        "name" : "Rodoviária Plano Piloto - A2",
+        "sourceInfo" : {
+          "deviceTag" : 2106489802
+        },
+        "locationConfidence" : 33.10045
+      },
+      "duration" : {
+        "startTimestampMs" : "1508337117064",
+        "endTimestampMs" : "1508337507428"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : -157940856,
+      "centerLngE7" : -478820033,
+      "visitConfidence" : 71,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -157942287,
+        "longitudeE7" : -478821657,
+        "placeId" : "ChIJiR8CKGowWpMRQ4QkQJfh_yc",
+        "name" : "Tacho Confeitaria",
+        "locationConfidence" : 9.074166
+      }, {
+        "latitudeE7" : -157942287,
+        "longitudeE7" : -478821658,
+        "placeId" : "ChIJB1dBAh47WpMRew6p25ORpl4",
+        "name" : "Estrutural",
+        "locationConfidence" : 6.0527973
+      }, {
+        "latitudeE7" : -157942287,
+        "longitudeE7" : -478821658,
+        "placeId" : "ChIJB1dBAh47WpMRJIt2zZOVBgI",
+        "name" : "HUB",
+        "locationConfidence" : 1.8163699
+      }, {
+        "latitudeE7" : -157942287,
+        "longitudeE7" : -478821658,
+        "placeId" : "ChIJB1dBAh47WpMRZdPHbeYib1Y",
+        "name" : "Hospital Do Paranoa Df",
+        "locationConfidence" : 1.2980523
+      }, {
+        "latitudeE7" : -157938805,
+        "longitudeE7" : -478819580,
+        "placeId" : "ChIJTdIH8B07WpMR_jwBwxwQzrA",
+        "locationConfidence" : 1.1463907
+      }, {
+        "latitudeE7" : -157939417,
+        "longitudeE7" : -478821406,
+        "placeId" : "ChIJ7e50F-I6WpMRBTGetYx2lt0",
+        "name" : "Pastelaria Vicosa",
+        "locationConfidence" : 0.8628932
+      }, {
+        "latitudeE7" : -157942287,
+        "longitudeE7" : -478821658,
+        "placeId" : "ChIJB1dBAh47WpMRQ70RCcMmOqk",
+        "name" : "Texeira De Freitas Ba",
+        "locationConfidence" : 0.69905835
+      }, {
+        "latitudeE7" : -157941454,
+        "longitudeE7" : -478825479,
+        "placeId" : "ChIJOXjJ_uE6WpMRN3owJHduJuA",
+        "name" : "Mercearia Assis",
+        "locationConfidence" : 0.5808588
+      }, {
+        "latitudeE7" : -157942287,
+        "longitudeE7" : -478821658,
+        "placeId" : "ChIJB1dBAh47WpMRvSAnR5wDC10",
+        "name" : "Templo dá Boa Vontade",
+        "locationConfidence" : 0.5658967
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -157938729,
+        "longitudeE7" : -478820065
+      },
+      "endLocation" : {
+        "latitudeE7" : -157594760,
+        "longitudeE7" : -478774719
+      },
+      "duration" : {
+        "startTimestampMs" : "1508337507428",
+        "endTimestampMs" : "1508342155897"
+      },
+      "distance" : 4908,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 47.45085396030118
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 27.607845835783202
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 22.006589668604047
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -157938632,
+          "lngE7" : -478820381
+        }, {
+          "latE7" : -157964792,
+          "lngE7" : -478777503
+        }, {
+          "latE7" : -157590522,
+          "lngE7" : -478776092
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : -157964033,
+          "lngE7" : -478778850,
+          "timestampMs" : "1508337812428",
+          "accuracyMeters" : 3
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "parkingEvent" : {
+        "timestampMs" : "1508342155897",
+        "location" : {
+          "latitudeE7" : -157594760,
+          "longitudeE7" : -478774719
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -157834924,
+        "longitudeE7" : -479358511,
+        "placeId" : "ChIJndeGGo4wWpMRQpkZTMGodzU",
+        "address" : "Primeira Avenida, 3220 - Brasília\nDF\n70297-400\nBrasil",
+        "name" : "Health Center No. 14",
+        "sourceInfo" : {
+          "deviceTag" : 2106489802
+        },
+        "locationConfidence" : 45.01505
+      },
+      "duration" : {
+        "startTimestampMs" : "1508595137000",
+        "endTimestampMs" : "1508595758759"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : -157834720,
+      "centerLngE7" : -479351320,
+      "visitConfidence" : 82,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -157825893,
+        "longitudeE7" : -479344636,
+        "placeId" : "ChIJkxPX1ZEwWpMRX3pp89c6d2U",
+        "name" : "Sres Se Bl e",
+        "locationConfidence" : 20.441843
+      }, {
+        "latitudeE7" : -157831770,
+        "longitudeE7" : -479345460,
+        "placeId" : "ChIJfVKQLo4wWpMR24MUfl26GwI",
+        "name" : "Fogo.etc.br",
+        "locationConfidence" : 6.2451
+      }, {
+        "latitudeE7" : -157837754,
+        "longitudeE7" : -479344498,
+        "placeId" : "ChIJMY1xS44wWpMRjJuqz1QVaU0",
+        "name" : "Ok Serviços",
+        "locationConfidence" : 2.221344
+      }, {
+        "latitudeE7" : -157852574,
+        "longitudeE7" : -479380860,
+        "placeId" : "ChIJdy2pwI0wWpMRHHp7VASErRY",
+        "name" : "Centro Comercial Cruzeiro",
+        "locationConfidence" : 1.7776178
+      }, {
+        "latitudeE7" : -157829190,
+        "longitudeE7" : -479345784,
+        "placeId" : "ChIJM_ChKY4wWpMRGbGNiTIwn3c",
+        "name" : "Christian church maranata",
+        "locationConfidence" : 1.5973594
+      }, {
+        "latitudeE7" : -157838990,
+        "longitudeE7" : -479343090,
+        "placeId" : "ChIJdxzgr4wwWpMRFPORPf1HVGg",
+        "name" : "Ciclo Center",
+        "locationConfidence" : 1.4407398
+      }, {
+        "latitudeE7" : -157824709,
+        "longitudeE7" : -479347259,
+        "placeId" : "ChIJM77A0JEwWpMR1Ot6r_xXlwc",
+        "name" : "Grafica Livraria & Papelaria Leticia",
+        "locationConfidence" : 1.1086962
+      }, {
+        "latitudeE7" : -157829098,
+        "longitudeE7" : -479367209,
+        "placeId" : "ChIJi9JrApIwWpMRJPUwE0L9_Y8",
+        "name" : "Bernardes & Ávila Associados",
+        "locationConfidence" : 0.9950077
+      }, {
+        "latitudeE7" : -157851719,
+        "longitudeE7" : -479375045,
+        "placeId" : "ChIJbQmVxY0wWpMRjAj5gB3281k",
+        "name" : "Banca de Revista",
+        "locationConfidence" : 0.97989386
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -157834924,
+        "longitudeE7" : -479358511
+      },
+      "endLocation" : {
+        "latitudeE7" : -157874685,
+        "longitudeE7" : -479403842
+      },
+      "duration" : {
+        "startTimestampMs" : "1508595758759",
+        "endTimestampMs" : "1508596265370"
+      },
+      "distance" : 1047,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 91.85880346012604
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 6.148300348587102
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.8476697614137443
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -157838802,
+          "lngE7" : -479360008
+        }, {
+          "latE7" : -157875308,
+          "lngE7" : -479401893
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "parkingEvent" : {
+        "timestampMs" : "1508596265370",
+        "location" : {
+          "latitudeE7" : -157874685,
+          "longitudeE7" : -479403842
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -157878309,
+        "longitudeE7" : -479400926,
+        "placeId" : "ChIJOU5J64wwWpMRJQO2EzCdCmA",
+        "address" : "V. RE, 2 - Cruzeiro Velho\nBrasília - DF\n70640-040\nBrasil",
+        "name" : "Rossoni Pastelaria e carne de sol",
+        "sourceInfo" : {
+          "deviceTag" : 2106489802
+        },
+        "locationConfidence" : 68.74363
+      },
+      "duration" : {
+        "startTimestampMs" : "1508596265370",
+        "endTimestampMs" : "1508598137240"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : -157875968,
+      "centerLngE7" : -479404226,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -157883976,
+        "longitudeE7" : -479408285,
+        "placeId" : "ChIJgflpuowwWpMRebQQKnRC-6g",
+        "name" : "Cruzeiro Center",
+        "locationConfidence" : 12.663301
+      }, {
+        "latitudeE7" : -157871816,
+        "longitudeE7" : -479404515,
+        "placeId" : "ChIJsbNIxYwwWpMRkvaheNeTNYk",
+        "name" : "Big Burger",
+        "locationConfidence" : 11.658084
+      }, {
+        "latitudeE7" : -157892619,
+        "longitudeE7" : -479384663,
+        "placeId" : "ChIJZ9yzkIswWpMRwremfTqGLZ4",
+        "name" : "Salão da Valéria e do Tchu",
+        "locationConfidence" : 0.3279454
+      }, {
+        "latitudeE7" : -157872193,
+        "longitudeE7" : -479405513,
+        "placeId" : "ChIJE1X2uI0wWpMRNZLPeQgecIs",
+        "name" : "GB Advocacia Militar",
+        "locationConfidence" : 0.2366157
+      }, {
+        "latitudeE7" : -157875114,
+        "longitudeE7" : -479406062,
+        "placeId" : "ChIJAQBAwYwwWpMRLrj-It1mSWw",
+        "name" : "Musical Novo Tempo",
+        "locationConfidence" : 0.21866366
+      }, {
+        "latitudeE7" : -157876921,
+        "longitudeE7" : -479404065,
+        "placeId" : "ChIJ9____4wwWpMRn5ZAvdtrWVw",
+        "name" : "Óticas Bela Visão",
+        "locationConfidence" : 0.21827556
+      }, {
+        "latitudeE7" : -157871816,
+        "longitudeE7" : -479404515,
+        "placeId" : "ChIJBeig6YwwWpMR3RdMtpbIPPA",
+        "name" : "Puro Pano",
+        "locationConfidence" : 0.21260843
+      }, {
+        "latitudeE7" : -157884033,
+        "longitudeE7" : -479411954,
+        "placeId" : "ChIJ9____4wwWpMRa1y0bHHTCuU",
+        "name" : "Auto Peças e Acessórios Bom Preço",
+        "locationConfidence" : 0.18681073
+      }, {
+        "latitudeE7" : -157874150,
+        "longitudeE7" : -479409033,
+        "placeId" : "ChIJiR0LxYwwWpMRXJEQUv7LraM",
+        "name" : "Auto Peças Tudo Tem",
+        "locationConfidence" : 0.18278779
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -157884532,
+        "longitudeE7" : -479403645
+      },
+      "endLocation" : {
+        "latitudeE7" : -158434333,
+        "longitudeE7" : -479682833
+      },
+      "duration" : {
+        "startTimestampMs" : "1508598137240",
+        "endTimestampMs" : "1508599494000"
+      },
+      "distance" : 21197,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 92.50600599644811
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 3.265831473647638
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 3.044856163213044
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -157884101,
+          "lngE7" : -479404945
+        }, {
+          "latE7" : -158046731,
+          "lngE7" : -479477615
+        }, {
+          "latE7" : -157814025,
+          "lngE7" : -480012321
+        }, {
+          "latE7" : -158385181,
+          "lngE7" : -479783134
+        }, {
+          "latE7" : -158434352,
+          "lngE7" : -479682884
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : -158384867,
+          "lngE7" : -479782450,
+          "timestampMs" : "1508599149000",
+          "accuracyMeters" : 2
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -157816772,
+        "longitudeE7" : -480010872,
+        "placeId" : "ChIJCYR6CeIzWpMRaAWVD10Mvqk",
+        "address" : "Scia Q 2 Conjunto F, 62 - Brasília\nDF\n70297-400\nBrasil",
+        "name" : "Scia Q 2 Conjunto F, 62",
+        "sourceInfo" : {
+          "deviceTag" : 2106489802
+        },
+        "locationConfidence" : 84.309074
+      },
+      "duration" : {
+        "startTimestampMs" : "1509067328000",
+        "endTimestampMs" : "1509111991277"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : -157814213,
+      "centerLngE7" : -480012513,
+      "visitConfidence" : 81,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -157816365,
+        "longitudeE7" : -480012873,
+        "placeId" : "ChIJ6xlxg-IzWpMRgIl_I-2U_PY",
+        "name" : "Visão Missionária da Última Hora",
+        "locationConfidence" : 7.8665237
+      }, {
+        "latitudeE7" : -157822260,
+        "longitudeE7" : -480004556,
+        "placeId" : "ChIJrQPlhVgxWpMR8BLfk651Kg8",
+        "name" : "6673 - Scia Q 14 A,",
+        "locationConfidence" : 3.463175
+      }, {
+        "latitudeE7" : -157813777,
+        "longitudeE7" : -480015511,
+        "placeId" : "ChIJyfVDmuIzWpMR6FIltxckpQs",
+        "name" : "Igreja de Cristo ESTRUTURAL",
+        "locationConfidence" : 1.2537291
+      }, {
+        "latitudeE7" : -157800424,
+        "longitudeE7" : -480015902,
+        "placeId" : "ChIJE1eTreIzWpMRq7e6s-ei0b8",
+        "name" : "6674 - Q 14 C,",
+        "locationConfidence" : 0.6950761
+      }, {
+        "latitudeE7" : -157814846,
+        "longitudeE7" : -479996855,
+        "placeId" : "ChIJUy1pXlgxWpMRopREpbebjg0",
+        "name" : "Rod. Df-087 Epvl - Guará",
+        "locationConfidence" : 0.37675065
+      }, {
+        "latitudeE7" : -157821398,
+        "longitudeE7" : -479997726,
+        "placeId" : "ChIJ3S8y81gxWpMRE9ecbj3j6Wk",
+        "name" : "Estrada Epvl, s/n",
+        "locationConfidence" : 0.32129776
+      }, {
+        "latitudeE7" : -157815022,
+        "longitudeE7" : -479993158,
+        "placeId" : "ChIJT2yEdFgxWpMRAbpX1WbHA-0",
+        "name" : "Restaurante Comunitário - Estrutural",
+        "locationConfidence" : 0.1813983
+      }, {
+        "latitudeE7" : -157806337,
+        "longitudeE7" : -480000937,
+        "placeId" : "ChIJGUOqFFgxWpMRxykoAuRNrUs",
+        "name" : "Panificadora e Confeitaria Los Manos",
+        "locationConfidence" : 0.12719831
+      }, {
+        "latitudeE7" : -157826760,
+        "longitudeE7" : -479996040,
+        "placeId" : "ChIJMad57VgxWpMRx41a3735F9s",
+        "name" : "Point Net Computers and Lan House",
+        "locationConfidence" : 0.116800286
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -157920186,
+        "longitudeE7" : -478945101
+      },
+      "endLocation" : {
+        "latitudeE7" : -157891914,
+        "longitudeE7" : -478969091
+      },
+      "duration" : {
+        "startTimestampMs" : "1509132850944",
+        "endTimestampMs" : "1509133145142"
+      },
+      "distance" : 405,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 45.60416306373189
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 45.41318507285135
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 3.446089274599276
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -157920207,
+          "lngE7" : -478945121
+        }, {
+          "latE7" : -157894916,
+          "lngE7" : -478959503
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}
